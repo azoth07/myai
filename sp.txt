@@ -1,0 +1,1220 @@
+问：宁波吉豪GeelyMR7153D03型汽车,车架号L6T7924Z8KU076216,在公里数3697时，故障现象:发动机故障灯亮P2407000
+答：DIAGNOSIS MODULE TANK LEAKAGE发生Pump Abnormity Due to Unknown Liquid具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：宜城新世纪GeelyMR6453D41型汽车,车架号L6T7742Z3KU087595,在公里数2286时，故障现象:该车发动机故障灯亮,进店用PC机检查发现故障代码为P044400,蒸发系统碳罐控制阀控制电路开路, 确定为碳罐电磁阀内部故障导致,需更换
+答：CANISTER PURGE VALVE ASSEMBLY发生Abnormal armature position具体为：Performance loss、Function failure
+问：酒泉吉元佳和汽车Guangzhou AutomobileMS1A-0A8型汽车,车架号LMGMS1G80J1020901,在公里数19894时，故障现象:发动机转速不能升高
+答：ELECTRIC THROTTLE BODY发生Motor overload具体为：Performance loss、Function failure
+问：信阳豫通GeelyHQ7152D04型汽车,车架号LB37824Z2KH063106,在公里数4994时，故障现象:发动机故障灯亮P049600
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：景德镇隆鑫GeelyHQ7152D02型汽车,车架号LB37722Z3KH110925,在公里数930时，故障现象:发动机故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：新乡荣邦Saic MotorI5S1.5LMT型汽车,车架号LSJA36E38KZ098726,在公里数5202时，故障现象:经检测是碳罐电磁阀内部故障导致发动机故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Abnormal armature position具体为：Performance loss、Function failure
+问：南宁资达GeelyJL7152C02型汽车,车架号LB37724Z6HX666206,在公里数46189时，故障现象:因发动机ECU内部故障导致车辆不好启动
+答：Canister purge valve发生Foreign substance between the armature a具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：濮阳恒通GeelyJL7152L13型汽车,车架号LB37724S4GX030417,在公里数28260时，故障现象:该车仪表不准,对组合仪表,油位传感器,碳罐控制阀排查,属碳罐控制阀内部故障导致
+答：Canister purge valve发生Foreign substance between the armature a具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：371312平邑顺华GreatwallCC6464RM06型汽车,车架号LGWEF6A50HH546643,在公里数27687时，故障现象:停放一夜后第二天无法启动（无标签）
+答：BODY CONTROL MODULE发生Mechnical damage具体为：Performance loss、Function failure
+问：330709义乌元信GreatwallCC6464RMOU型汽车,车架号LGWEF6A53HH509330,在公里数31435时，故障现象:车内进水（J4PIN针腐蚀）
+答：BODY CONTROL MODULE发生Corrupt by water具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：130609保定五洲GreatwallCC6463RMOU型汽车,车架号LGWEF6A55HH521494,在公里数21366时，故障现象:全车不通电（J4PIN针腐蚀腐蚀）
+答：BODY CONTROL MODULE发生Corrupt by water具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：371604滨州惠骋GreatwallCC6464RMOU型汽车,车架号LGWEF6A56HH510536,在公里数26620时，故障现象:左前车门已关仪表仍显示未关闭，钥匙锁不住车（J4PIN针腐蚀）
+答：BODY CONTROL MODULE发生Corrupt by water具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：431203怀化永华GreatwallCC6463RM06型汽车,车架号LGWEF6A56HH566282,在公里数29317时，故障现象:雨刮不工作，远近光灯不工作
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：510112都江堰建国GreatwallCC6462RM06型汽车,车架号LGWEF6A55HH574597,在公里数19526时，故障现象:天窗无法正常使用，大灯有时无法开启（J4PIN针腐蚀）
+答：BODY CONTROL MODULE发生Corrupt by water具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：421203咸宁源华GreatwallCC6463RM06型汽车,车架号LGWEF6A52HF042056,在公里数37959时，故障现象:灯光不亮（J4PIN针腐蚀）
+答：BODY CONTROL MODULE发生Corrupt by water具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：341560六安元基GreatwallCC6483AD00型汽车,车架号LGWEF7A79HH290218,在公里数57393时，故障现象:行驶中喇叭长鸣(U37芯片EOS)
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：370117济南金福骋GreatwallCC6483AD00型汽车,车架号LGWEF7A74JH250280,在公里数11935时，故障现象:行驶中喇叭长鸣(U37芯片EOS)
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：230603大庆万兴GreatwallCC6483AD00型汽车,车架号LGWEF7A71HH300580,在公里数27621时，故障现象:喇叭长鸣,长鸣后喇叭不响(U37芯片EOS)
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：130960沧州润驰达GreatwallCC6483AD00型汽车,车架号LGWEF7A74HH281264,在公里数30569时，故障现象:喇叭长鸣(U37芯片EOS)
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：370760潍坊为众兴GreatwallCC6483AD00型汽车,车架号LGWEF7A73HH295687,在公里数35097时，故障现象:喇叭长鸣(U37芯片EOS)
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：220160吉林帅通GreatwallCC6483AD00型汽车,车架号LGWEF7A71JH275721,在公里数14000时，故障现象:喇叭长鸣(U37芯片EOS)
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：210161辽宁兴凯来GreatwallCC6483AD00型汽车,车架号LGWEF7A79HH300553,在公里数25932时，故障现象:喇叭长鸣,长鸣后喇叭不响(U37芯片EOS)
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：140460长冶大瑞GreatwallCC6483AD00型汽车,车架号LGWEF7A70JH260613,在公里数40630时，故障现象:喇叭长鸣(U37芯片EOS)
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：220160吉林帅通GreatwallCC7203UM02型汽车,车架号LGWEE6A58JH506271,在公里数53733时，故障现象:喇叭长鸣(U37芯片EOS)
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：150107内蒙古超达GreatwallCC7203UM02型汽车,车架号LGWEE6A56HH519725,在公里数10823时，故障现象:行驶中喇叭长鸣(U37芯片EOS)
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：120161天津汇通众合GreatwallCC7203UM02型汽车,车架号LGWEE6A5XHH529898,在公里数19630时，故障现象:喇叭长鸣(U37芯片EOS)
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：220507通化华众GreatwallCC7203UM02型汽车,车架号LGWEE6A57HH527722,在公里数11965时，故障现象:喇叭长鸣(U37芯片EOS)
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：510950遂宁瑞孚GreatwallCC7203UM02型汽车,车架号LGWEE6A56HH529607,在公里数19278时，故障现象:喇叭长鸣(U37芯片EOS)
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：宁波豪瑞GeelyHQ7132C03型汽车,车架号LB37712Z7GH041299,在公里数39173时，故障现象:该车客户反映加满油,油表指针距离满格还差一点,经维修技师检查,燃油泵线束插头正常,判断为燃油泵浮子不准导致油表不准,需更换
+答：FUEL PUMP MODULE发生TSG connector deformation具体为：mechanical damage
+问：开封万宝GeelyHQ7182L05型汽车,车架号LB37844S9GH067322,在公里数23760时，故障现象:客户进店反映该车油表不准,忽高忽低,及时检查车辆确定此故障,排除相关线束故障及碳罐阀故障,检查燃油泵油浮子无电流,判定为燃油泵带燃油传感器总成故障导致
+答：FUEL PUMP MODULE发生TSG connector deformation具体为：mechanical damage
+问：宁德远辉GeelyHQ7182L05型汽车,车架号LB37844S9GH055428,在公里数36467时，故障现象:该车辆出现偶发不好启动,经过维修技师检查后判断为燃油泵带燃油传感器总成加工不良导致,更换后故障排除
+答：FUEL PUMP MODULE发生Float arm missing具体为：mechanical damage
+问：青海青农GeelyHQ7182L05型汽车,车架号LB37844S6HH002882,在公里数38643时，故障现象:客户反映车子经常性油表显示不准,经我站技师检查仪表插接件都正常
+答：FUEL PUMP MODULE发生Float arm missing具体为：Critical defect
+问：乌鲁木齐鑫华创GeelyHQ7132L06型汽车,车架号LB37814S7GH062702,在公里数34514时，故障现象:用户反映车辆无法启动
+答：FUEL PUMP MODULE发生Float arm missing具体为：mechanical damage
+问：厦门合升GeelyHQ7182L05型汽车,车架号LB37844S7GH058103,在公里数18927时，故障现象:该车无法启动
+答：FUEL PUMP MODULE发生Failure was confirmed only具体为：Performance loss、Function failure
+问：乌鲁木齐鑫华创GeelyHQ7182L05型汽车,车架号LB37844S9GH062167,在公里数57894时，故障现象:用户反映车辆行驶中油位显示会增加1-2格,维修技师检查发现行驶中油位显示会增加1-2格确实存在,检查供电正常,未见插件松动,油量传感器未变形
+答：FUEL PUMP MODULE发生Float arm missing具体为：Critical defect
+问：漯河广信GeelyHQ7182L04型汽车,车架号LB37742S9GH078598,在公里数48424时，故障现象:客户进站反映油表不准,车辆停放不走油表会自动上升,经维修技师检查故障确实存在,维修技师检查仪表及线路无异常,判定为燃油泵带燃油传感器总成故障导致
+答：FUEL PUMP MODULE发生TSG ceramic plate broken具体为：mechanical damage
+问：荆门铭丰GeelyHQ7182L05型汽车,车架号LB37844S7GH065214,在公里数55132时，故障现象:用户反映车辆油表不准,油表显示越跑越多,经维修技师检查故障确实存在,拆开燃油泵后检查油浮能正常摆动,线路正常,判断为油泵内部异常磨损导致接触不良
+答：FUEL PUMP MODULE发生Float arm missing具体为：Critical defect
+问：泉州吉沃GeelyHQ7182C04型汽车,车架号LB37844Z0HH071225,在公里数39777时，故障现象:该车启动后后排噪音很大,经车间技师检查为燃油泵带燃油传感器总成内部异常磨损导致,需更换燃油泵带燃油传感器总成
+答：FUEL PUMP MODULE发生Float arm missing具体为：mechanical damage
+问：河南华泽GeelyHQ7132C04型汽车,车架号LB37814Z6GH131117,在公里数49033时，故障现象:该车行驶中底盘中后部有异响,检查故障属实检查噪音从燃油泵部位传出,经检查判断因燃油泵带燃油传感器内部故障导致
+答：FUEL PUMP MODULE发生Float arm missing具体为：Critical defect
+问：北京京诚跃GeelyHQ7182C03型汽车,车架号LB37742Z0GH075442,在公里数42523时，故障现象:根据客户反映检查油表不准,维修技师检测燃油泵问题,维修技师拆装燃油泵检测燃油泵,油浮子问题导致仪表不准现象,更换燃油泵总成
+答：FUEL PUMP MODULE发生Float arm missing具体为：Critical defect
+问：江西鸿浩ChangAn Ford型汽车,车架号LVSHFFAL0KF786088,在公里数745时，故障现象:P2096
+答：OXYGEN SENSOR发生sensor element  crocodile crack in exhau具体为：Performance loss、Function failure
+问：甘肃Geely型汽车,车架号,在公里数100时，故障现象:倒车灯不亮，转向灯长亮
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：台州之星Daimler China.C260L型汽车,车架号LE42051771L538313,在公里数13781时，故障现象:技师检查结果油箱密封性诊断装置电气故障
+答：DIAGNOSIS MODULE TANK LEAKAGE发生Mechanical damage具体为：mechanical damage
+问：运城瑞莱Geely型汽车,车架号L6T7722Z3JZ025569,在公里数8090时，故障现象:发动机故障灯亮
+答：Electronic Control Unit发生Components to supplier FA具体为：Performance loss、Function failure
+问：商丘宏丰Greatwall型汽车,车架号1627017067,在公里数51131时，故障现象:打不着火 P230712
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：濮阳通达Greatwall型汽车,车架号1627041513,在公里数62880时，故障现象:发动机故障灯亮 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：文山广友Greatwall型汽车,车架号1627036052,在公里数59012时，故障现象:车辆无法启动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：兴义建国Greatwall型汽车,车架号1725153885,在公里数53210时，故障现象:启动困难，发动机抖动大
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：青海青旺Greatwall型汽车,车架号1705021541,在公里数59562时，故障现象:发动机无法启动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：牡丹江博能Greatwall型汽车,车架号1725111251,在公里数38303时，故障现象:车辆加速无力抖动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：新乡东安Greatwall型汽车,车架号1735055666,在公里数35700时，故障现象:发动机抖动 P035213
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：巴彦淖尔宏途Greatwall型汽车,车架号1725103921,在公里数58405时，故障现象:车辆加速无力 P035413
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：云南诚旺Greatwall型汽车,车架号1725013518,在公里数51812时，故障现象:发动机抖动大，加油无力
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：鄂尔多斯鼎诚Greatwall型汽车,车架号1725021702,在公里数32433时，故障现象:行驶中发动机抖动，故障灯亮 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：顺德汽销Greatwall型汽车,车架号1725130925,在公里数47793时，故障现象:车辆加速无力，故障灯亮
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：黄冈源华Greatwall型汽车,车架号1725014678,在公里数71900时，故障现象:发动机故障灯亮 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：包头辰业Greatwall型汽车,车架号1725103883,在公里数35716时，故障现象:行驶中发动机故障灯亮，无力，抖动
+答：Electronic Control Unit发生Mechnical damage具体为：Performance loss、Function failure
+问：呼市际虹Greatwall型汽车,车架号1725017250,在公里数36820时，故障现象:发动机故障灯常亮，车抖
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：延边博瑞Greatwall型汽车,车架号1725041240,在公里数46564时，故障现象:行驶顿挫
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：济南悦骋Greatwall型汽车,车架号1725062814,在公里数45844时，故障现象:发动机抖动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：广州新东联Greatwall型汽车,车架号1725147734,在公里数86203时，故障现象:发动机故障灯亮，加速无力
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：濮阳通达Greatwall型汽车,车架号1725045915,在公里数78805时，故障现象:发动机故障灯亮
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：潍坊新东联Greatwall型汽车,车架号1725015860,在公里数46588时，故障现象:故障灯亮 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：德州中源Greatwall型汽车,车架号1725070822,在公里数54251时，故障现象:发动机故障灯亮，抖动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：通辽昱达吉Greatwall型汽车,车架号1625345500,在公里数46208时，故障现象:发动机抖动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：德州兴泽Greatwall型汽车,车架号1725050697,在公里数34095时，故障现象:车辆怠速抖动
+答：Electronic Control Unit发生Mechnical damage具体为：Performance loss、Function failure
+问：无锡中正Greatwall型汽车,车架号1725013608,在公里数58476时，故障现象:发动机故障灯亮 P035313 P026711
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：广西长道白沙店Greatwall型汽车,车架号1705040281,在公里数48932时，故障现象:发动机怠速抖动，加速无力
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：铜仁升源Greatwall型汽车,车架号1725131135,在公里数42146时，故障现象:发动机故障灯亮，发动机抖动，加速无力 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：云南诚旺Greatwall型汽车,车架号1725035417,在公里数47869时，故障现象:发动机抖动大，加油无力 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：张家口鑫嘉荣Greatwall型汽车,车架号1725048027,在公里数47222时，故障现象:故障灯亮，发动机抖，车辆无法行驶 P035313
+答：Electronic Control Unit发生Mechnical damage具体为：Performance loss、Function failure
+问：鄂尔多斯和兴Greatwall型汽车,车架号1725025485,在公里数22014时，故障现象:发动机抖动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：大庆行源德Greatwall型汽车,车架号1725066038,在公里数44000时，故障现象:发动机怠速抖动且发动机故障灯亮 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：甘肃仕通Greatwall型汽车,车架号1725047556,在公里数34182时，故障现象:发动机故障灯亮，加速无力 P035113 P030029
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：石河子天羽Greatwall型汽车,车架号1725152250,在公里数59712时，故障现象:车辆启动后怠速发动机抖动，有突突现象，加速无力 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：玉林长道Greatwall型汽车,车架号1725062988,在公里数68971时，故障现象:发动机抖动大，加油无力 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：白山隆泰Greatwall型汽车,车架号1725008140,在公里数40458时，故障现象:行驶中发动机抖动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：福建万国Greatwall型汽车,车架号1725118424,在公里数32154时，故障现象:故障灯亮 P035213 P030121 P030021
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：东莞鸿燕Greatwall型汽车,车架号1735025032,在公里数61266时，故障现象:加不上油
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：南通益都Greatwall型汽车,车架号1725057273,在公里数48824时，故障现象:发动机抖动，故障灯亮 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：诸暨元胜Greatwall型汽车,车架号1601069206,在公里数15916时，故障现象:车子没有定速巡航
+答：Electronic Control Unit发生Mechnical damage具体为：Performance loss、Function failure
+问：梁山圣华Greatwall型汽车,车架号1725069143,在公里数44226时，故障现象:发动机故障灯亮，加速无力，发动机抖动 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：辽宁星跃Greatwall型汽车,车架号1605262774,在公里数54977时，故障现象:车辆动力不足
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：呼伦贝尔泊易达Greatwall型汽车,车架号1705061618,在公里数51366时，故障现象:车辆无法启动，发动机故障灯亮
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：恩施东方Greatwall型汽车,车架号1725114560,在公里数45613时，故障现象:发动机故障灯亮，且回油门无力，后自动熄火
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：遵义龙伟Greatwall型汽车,车架号1725044763,在公里数37730时，故障现象:车辆行驶80码加油发吐，发动机故障灯亮
+答：Electronic Control Unit发生Mechnical damage具体为：Performance loss、Function failure
+问：青岛长丰Greatwall型汽车,车架号1605268803,在公里数22150时，故障现象:行驶时顿挫感明显
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：安徽新动力Greatwall型汽车,车架号1625348060,在公里数43079时，故障现象:发动机故障灯亮，车辆抖动 P035413
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：萍乡鑫城Greatwall型汽车,车架号1605269869,在公里数58047时，故障现象:行驶中顿挫P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：周口宏腾Greatwall型汽车,车架号1505128262,在公里数72632时，故障现象:车抖 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：吉林石油Greatwall型汽车,车架号1625349644,在公里数28300时，故障现象:车辆怠速时发动机抖动，仪表故障灯亮 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：鄂尔多斯和兴Greatwall型汽车,车架号1605281856,在公里数45223时，故障现象:发动机抖动 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：重庆卓庆Greatwall型汽车,车架号1605292292,在公里数48921时，故障现象:无法启动 P027011
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：智源冀东Greatwall型汽车,车架号1625309993,在公里数39770时，故障现象:车辆行驶200KM左右后停放后车辆无法启动
+答：Electronic Control Unit发生Mechnical damage具体为：Performance loss、Function failure
+问：太原智源Greatwall型汽车,车架号1625331589,在公里数58300时，故障现象:车辆抖动厉害，发动机故障灯亮 P035313
+答：Electronic Control Unit发生Mechnical damage具体为：Performance loss、Function failure
+问：鄂尔多斯和兴Greatwall型汽车,车架号1625324457,在公里数46797时，故障现象:车抖无力 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：吉林长兴Greatwall型汽车,车架号1605273585,在公里数35263时，故障现象:车辆3缸点火线圈开裂
+答：Electronic Control Unit发生Mechnical damage具体为：Performance loss、Function failure
+问：百色森海Greatwall型汽车,车架号1705000947,在公里数49208时，故障现象:发动机抖动，加速无力 P035313
+答：Electronic Control Unit发生Mechnical damage具体为：Performance loss、Function failure
+问：宜昌华坤Greatwall型汽车,车架号1625037912,在公里数29201时，故障现象:车辆偶尔打不着车
+答：Electronic Control Unit发生Mechnical damage具体为：Performance loss、Function failure
+问：娄底永华Greatwall型汽车,车架号1705001426,在公里数58123时，故障现象:车辆加速无力，发动机故障灯亮 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：张家口鑫嘉荣Greatwall型汽车,车架号1605001377,在公里数41122时，故障现象:故障灯亮，发动机抖，车辆无法行驶
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：新乡东安Greatwall型汽车,车架号1625279187,在公里数48783时，故障现象:发动机抖
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：大理超达Greatwall型汽车,车架号1625208759,在公里数22200时，故障现象:发动机故障灯亮，熄火后无法启动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：玉溪迪鑫隆城Greatwall型汽车,车架号1625357440,在公里数57441时，故障现象:发动机故障灯亮，加不起油
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：福建鸿泽Greatwall型汽车,车架号1625035539,在公里数59078时，故障现象:行驶时会突然熄火
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：河南恒联Greatwall型汽车,车架号1625303810,在公里数46053时，故障现象:发动机故障灯亮，怠速抖动 P035413
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：福州万润泰Greatwall型汽车,车架号1625317517,在公里数73000时，故障现象:车辆行驶会窜
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：咸阳超达Greatwall型汽车,车架号1625346901,在公里数63946时，故障现象:车辆启动后，发动机异常抖动大
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：杭州国城Greatwall型汽车,车架号1605095090,在公里数65336时，故障现象:车辆无法启动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：台州元通Greatwall型汽车,车架号1605082787,在公里数40140时，故障现象:车辆加速无力
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：泉州万国Greatwall型汽车,车架号1605046511,在公里数41177时，故障现象:发动机故障灯亮，发动机抖动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：吉林长兴Greatwall型汽车,车架号1625329367,在公里数76958时，故障现象:发动机故障灯亮，加不上油 P030422
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：宝鸡迪鑫Greatwall型汽车,车架号1625341901,在公里数36891时，故障现象:发动机抖动，缺缸失火 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：赤峰世顺Greatwall型汽车,车架号1725041168,在公里数34000时，故障现象:发动机灯亮，发动机怠速抖动，加速无力
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：上海天驰Greatwall型汽车,车架号1625348303,在公里数55044时，故障现象:发动机故障灯亮
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：曲靖迪鑫Greatwall型汽车,车架号1625236164,在公里数32338时，故障现象:发动机故障灯亮，加速无力 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：天水银通Greatwall型汽车,车架号1625328267,在公里数48791时，故障现象:车辆抖动，加速无力，发动机故障灯亮 P035413 P030221
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：沂南顺天Greatwall型汽车,车架号1625062363,在公里数39300时，故障现象:加速无力，发动机抖动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：武威金仕恒泰Greatwall型汽车,车架号1625350595,在公里数62110时，故障现象:车辆无力，发动机发抖，故障灯亮
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：江苏宁枫宏业Greatwall型汽车,车架号1625121862,在公里数45999时，故障现象:发动机故障灯亮，发动机抖动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：朔州振华Greatwall型汽车,车架号1625349968,在公里数53000时，故障现象:车抖
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：广西广昇Greatwall型汽车,车架号1705102936,在公里数29498时，故障现象:行驶中自动熄火，无法启动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：济南金骏骋Greatwall型汽车,车架号1735147816,在公里数24456时，故障现象:点火线圈爆裂
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：库尔勒恒祥Greatwall型汽车,车架号1725105416,在公里数49566时，故障现象:发动机动力不足，加速无力
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：周口宏腾Greatwall型汽车,车架号1725013716,在公里数44648时，故障现象:车辆加速无力
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：陕西超达Greatwall型汽车,车架号1725043644,在公里数34823时，故障现象:发动机故障灯亮
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：西安源康Greatwall型汽车,车架号1625025316,在公里数111494时，故障现象:故障灯亮，车抖动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：昆明千顺Greatwall型汽车,车架号1625139488,在公里数38000时，故障现象:发动机故障灯常亮
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：朔州振华Greatwall型汽车,车架号1625130219,在公里数40250时，故障现象:车抖
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：内江嘉诚Greatwall型汽车,车架号1625028259,在公里数67870时，故障现象:仪表显示发动机故障灯报警，车辆加速无力
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：聊城奥宝源Greatwall型汽车,车架号1625324148,在公里数70247时，故障现象:车辆行驶中突然抖动，加速无力
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：博乐宏森Greatwall型汽车,车架号1625352309,在公里数40839时，故障现象:该车一个缸不工作
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：霸州北方Greatwall型汽车,车架号1625354387,在公里数65591时，故障现象:故障灯亮
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：普洱超达Greatwall型汽车,车架号1705052658,在公里数32101时，故障现象:车子行驶无动力，发耸
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：大同大信Greatwall型汽车,车架号1625349047,在公里数65255时，故障现象:发动机抖动，故障灯亮 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：重庆格邦Greatwall型汽车,车架号1625184446,在公里数75813时，故障现象:发动机故障灯亮，行驶无力
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：宜宾嘉诚Greatwall型汽车,车架号1625337333,在公里数53507时，故障现象:发动机发抖
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：衡阳大鹏Greatwall型汽车,车架号1625074612,在公里数47232时，故障现象:发动机三缸缺缸，加油无力
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：宜昌华坤Greatwall型汽车,车架号1605202281,在公里数66401时，故障现象:车辆无法启动
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：太原欣昌林Greatwall型汽车,车架号1725027956,在公里数58446时，故障现象:报故障码 P035313
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：昭通超达Greatwall型汽车,车架号1625238945,在公里数38718时，故障现象:发动机抖，无力
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：鞍山哲盛210303Greatwall型汽车,车架号LGWEF5A5XKH544979,在公里数6489时，故障现象:更换喷油器总成后故障排除,检测P130A00失火引起断缸
+答：HIGH PRESSURE INJECTOR发生DIRT ENTERED LEAD TO FAILURE具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：上海万兴别克SGM型汽车,车架号,在公里数327时，故障现象:无法启动，报码P0A95高压电池包主保险丝损坏，P1E94 电池包电压与电芯电压总和偏差超限，更换保险丝+PEU故障修复。
+答：POWER ELECTRONIC UNIT发生Raw material issue具体为：Performance loss、Function failure
+问：上海绿地闵翔Saic MotorAS24型汽车,车架号LSJA24795JS194412,在公里数10058时，故障现象:启动后挂D档无法行驶，仪表提示混动故障，故障件位于机舱
+答：POWER ELECTRONIC UNIT发生EOS具体为：Performance loss、Function failure
+问：聊城润泓First Auto Works型汽车,车架号LFP83APC0K1D83678,在公里数1309时，故障现象:故障灯亮
+答：OXYGEN SENSOR发生sensor element crack in exhaust side具体为：Performance loss、Function failure
+问：渭南华腾First Auto Works型汽车,车架号LFP83APC4K1D48741,在公里数4448时，故障现象:故障灯亮
+答：OXYGEN SENSOR发生sensor element crack in exhaust side具体为：Performance loss、Function failure
+问：渭南华腾First Auto Works型汽车,车架号LFP83APC0K1D50292,在公里数4439时，故障现象:故障灯亮
+答：OXYGEN SENSOR发生sensor element crack in exhaust side具体为：Performance loss、Function failure
+问：滁州市益众Shanghai Volkswagen型汽车,车架号LSVAY60E7K2012677,在公里数1572时，故障现象:车辆电力驱动系统故障，故障码P33EB00 P0A1B00 P30A000
+答：POWER ELECTRONIC UNIT发生Raw material issue具体为：Performance loss、Function failure
+问：龙岩全福汽车ChangAn Ford型汽车,车架号LVSHFFAL8KF785948,在公里数2时，故障现象:P0036
+答：OXYGEN SENSOR发生sensor element  crocodile crack in exhau具体为：Performance loss、Function failure
+问：宁德远辉GeelyMR6453C04型汽车,车架号L6T7742Z5HN442415,在公里数31305时，故障现象:该车辆无法启动
+答：FUEL PUMP MODULE发生Product disassembled具体为：mechanical damage
+问：潍坊福链GeelyMR6453C04型汽车,车架号L6T7742Z8HN443591,在公里数27768时，故障现象:车辆后底部嗡嗡异响
+答：FUEL PUMP MODULE发生Carbon brush abnormal abrasion具体为：Performance loss、Function failure
+问：连云港东泉GeelyMR6453C04型汽车,车架号L6T7742Z2HN426317,在公里数36584时，故障现象:怠速时油箱部位有类似电流的异响
+答：FUEL PUMP MODULE发生Carbon brush and commulator wear具体为：Performance loss、Function failure
+问：广西吉星GeelyMR7183C01型汽车,车架号L6T7944Z0HN466581,在公里数37855时，故障现象:客户反映无法加速
+答：FUEL PUMP MODULE发生Flange pin ablation具体为：Performance loss、Function failure
+问：台州吉胜GeelyMR7183C01型汽车,车架号L6T7944Z8GN475205,在公里数30095时，故障现象:车辆无法启动
+答：FUEL PUMP MODULE发生Flange pin ablation具体为：Performance loss、Function failure
+问：溗州联顺GeelyMR6453L02型汽车,车架号L6T7752S9GN475036,在公里数23121时，故障现象:客户反映车辆在平整路面上无法启动
+答：FUEL PUMP MODULE发生Failure was confirmed only具体为：Performance loss、Function failure
+问：湖北永大GeelyMR7183C01型汽车,车架号L6T7944Z4HN432532,在公里数58895时，故障现象:油表显示不准
+答：FUEL PUMP MODULE发生Reservoir broken具体为：mechanical damage
+问：温州煊GeelyMR7183C05型汽车,车架号L6T7944Z1HN493904,在公里数18821时，故障现象:油表指示针不动
+答：FUEL PUMP MODULE发生TSG connector deformation具体为：mechanical damage
+问：合肥大步牛星First Auto WorksCA7188ATE6型汽车,车架号LFPH4ACE6K1A34240,在公里数6483时，故障现象:燃油泄露检测模块
+答：DIAGNOSIS MODULE TANK LEAKAGE发生Mechanical damage具体为：mechanical damage
+问：沈阳汇旗通First Auto WorksCA7188ATE6型汽车,车架号LFPH4ACE5K1A53717,在公里数1229时，故障现象:燃油泄露检测模块
+答：DIAGNOSIS MODULE TANK LEAKAGE发生Mechanical damage具体为：mechanical damage
+问：浙江裕旗First Auto WorksCA7188ATE6型汽车,车架号LFPH4ACEXK1A38422,在公里数4865时，故障现象:燃油泄露检测模块
+答：DIAGNOSIS MODULE TANK LEAKAGE发生Pump Abnormity Due to Unknown Liquid具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：赣州凯迪First Auto WorksCA7185型汽车,车架号LFPH4BCP7K2L02971,在公里数7715时，故障现象:燃油泄露检测模块
+答：DIAGNOSIS MODULE TANK LEAKAGE发生Mechanical damage具体为：mechanical damage
+问：北京龙泽First Auto WorksCA7188ATE6型汽车,车架号LFPH4ACE5K1A43947,在公里数10211时，故障现象:燃油泄露检测模块
+答：DIAGNOSIS MODULE TANK LEAKAGE发生Mechanical damage具体为：mechanical damage
+问：河南圆若First Auto WorksCA7188ATE6型汽车,车架号LFPH4ACP5K1A12585,在公里数3942时，故障现象:燃油泄露检测模块
+答：DIAGNOSIS MODULE TANK LEAKAGE发生Pump Abnormity Due to Unknown Liquid具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：东莞鸿粤益嘉First Auto WorksCA6471红旗HS型汽车,车架号LFB1E6677KJB09381,在公里数2913时，故障现象:燃油泄露检测模块
+答：DIAGNOSIS MODULE TANK LEAKAGE发生Mechanical damage具体为：mechanical damage
+问：广州锦龙红旗First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACPXJ1E24225,在公里数30789时，故障现象:失效
+答：FUEL PUMP MODULE发生TSG connector deformation具体为：mechanical damage
+问：武汉东瑞First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACP6J1B03475,在公里数12631时，故障现象:有故障
+答：FUEL PUMP MODULE发生Floater missing具体为：Critical defect
+问：东莞鸿粤益嘉First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACP7J1E04191,在公里数34931时，故障现象:有故障
+答：FUEL PUMP MODULE发生Three direct links/EKP seal ring missing具体为：mechanical damage
+问：邢台邦华First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACP6J1B00656,在公里数36444时，故障现象:有故障
+答：FUEL PUMP MODULE发生Three direct links/EKP seal ring deforma具体为：mechanical damage
+问：泉州同行First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACE1J1E24953,在公里数17754时，故障现象:有故障
+答：FUEL PUMP MODULE发生Three direct links/EKP seal ring deforma具体为：mechanical damage
+问：北京龙泽百旺First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACP0J1B01348,在公里数45252时，故障现象:无法启动
+答：FUEL PUMP MODULE发生Three direct links/EKP seal ring broken（具体为：mechanical damage
+问：北京龙泽百旺First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACP2J1E00727,在公里数11474时，故障现象:无法启动
+答：FUEL PUMP MODULE发生Float arm missing具体为：mechanical damage
+问：合肥大步牛星First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACP4J1E08845,在公里数15787时，故障现象:异响
+答：FUEL PUMP MODULE发生Three direct links/EKP seal ring broken（具体为：mechanical damage
+问：郑州大展First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACP0J1B02998,在公里数14848时，故障现象:烧蚀
+答：FUEL PUMP MODULE发生Floater missing具体为：mechanical damage
+问：合肥大步牛星First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACP8J1A98733,在公里数22308时，故障现象:异响
+答：FUEL PUMP MODULE发生Floater missing具体为：mechanical damage
+问：佛山骏乔First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACE9J1E21685,在公里数46359时，故障现象:哨声
+答：FUEL PUMP MODULE发生Floater missing具体为：mechanical damage
+问：南昌龙和First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACE3K1A03429,在公里数13623时，故障现象:有故障
+答：FUEL PUMP MODULE发生Floater missing具体为：mechanical damage
+问：兰州金岛红旗First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACP9J1B01087,在公里数34195时，故障现象:有故障
+答：FUEL PUMP MODULE发生Three direct links/EKP seal ring broken（具体为：mechanical damage
+问：黑龙江龙奥达First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACP2J1A84715,在公里数8918时，故障现象:电压过低
+答：FUEL PUMP MODULE发生Three direct links/EKP seal ring broken（具体为：mechanical damage
+问：湖北英驰First Auto WorksCA7188ATE5型汽车,车架号LFPH4ACP3J1E23823,在公里数35570时，故障现象:烧蚀
+答：FUEL PUMP MODULE发生Floater missing具体为：Critical defect
+问：东莞鸿粤益嘉First Auto WorksCA6471红旗HS型汽车,车架号LFB1E6677KJB09381,在公里数2913时，故障现象:有故障
+答：CANISTER PURGE VALVE ASSEMBLY发生Abnormal armature position具体为：Performance loss、Function failure
+问：漯河佳美GeelyHQ7182L05型汽车,车架号LB37844S9GH131911,在公里数38358时，故障现象:油表不准
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：潜江捷众GeelyHQ7152D04型汽车,车架号LB37824Z1KH088238,在公里数3196时，故障现象:发动机故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：西安辰宇GeelyHQ7152D04型汽车,车架号LB37824Z9KH102032,在公里数2187时，故障现象:发动机故障灯亮P049600
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：温州华杰GeelyHQ7152D04型汽车,车架号LB37824Z8KH102040,在公里数873时，故障现象:发动机故障灯亮P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：汉中嘉力GeelyHQ7152D02型汽车,车架号LB37722Z4KH113221,在公里数830时，故障现象:发动机故障灯亮P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：济源洪基GeelyHQ7152D04型汽车,车架号LB37824Z3KH071845,在公里数2557时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：金华利捷GeelyHQ7152D04型汽车,车架号LB37824Z3KH119120,在公里数386时，故障现象:发动机故障灯亮P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：桐庐车业GeelyHQ7152D02型汽车,车架号LB37722Z9KH078773,在公里数2100时，故障现象:发动机故障灯亮P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：陕西意林GeelyHQ7152D02型汽车,车架号LB37722Z4KH063873,在公里数3368时，故障现象:发动机故障灯亮P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：安徽吉兴达GeelyHQ7152D02型汽车,车架号LB37722Z4KH065607,在公里数12295时，故障现象:发动机故障灯亮P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Abnormal armature position具体为：Performance loss、Function failure
+问：重庆博锦GeelyHQ7152D04型汽车,车架号LB37824Z6KH110606,在公里数344时，故障现象:发动机故障灯亮P049700碳罐电磁阀卡滞常闭
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：哈尔滨晨宇Greatwall型汽车,车架号1743083946,在公里数96532时，故障现象:车辆跑高速时，同一速度长时间行驶怂车
+答：Electronic Control Unit发生Mechnical damage具体为：Performance loss、Function failure
+问：恩施志恒Greatwall型汽车,车架号1744120992,在公里数19500时，故障现象:车辆无法行驶
+答：Electronic Control Unit发生Corrupt by water具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：武汉骏马聚城Greatwall型汽车,车架号1723035176,在公里数8182时，故障现象:车辆怠速时发动机有抖动现象，发动机故障灯亮 P030100
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：岳阳长威Greatwall型汽车,车架号1844050140,在公里数23544时，故障现象:发动机抖动
+答：Electronic Control Unit发生Corrupt by water具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：黄冈源华兴瑞Greatwall型汽车,车架号1823038691,在公里数64058时，故障现象:车辆发动机灯偶发现亮
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：漳州万国Greatwall型汽车,车架号1833040048,在公里数16456时，故障现象:车辆启动后发动机故障灯亮 P013116
+答：Electronic Control Unit发生EOS具体为：Performance loss、Function failure
+问：J140015SGM WulingCN210M型汽车,车架号LZWADAGA2KB090530,在公里数1173时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6341108SGM WulingCN115型汽车,车架号LZWADAGA4KC656312,在公里数1779时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J140015SGM WulingN300型汽车,车架号LZWCBAGA1KE643410,在公里数2350时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321135SGM WulingCN115型汽车,车架号LZWADAGA3KC661789,在公里数2000时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN115型汽车,车架号LZWADAGA1KC703439,在公里数631时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130009SGM WulingN300型汽车,车架号LZWCBAGA0KE408268,在公里数2768时，故障现象:故障灯一直亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN115型汽车,车架号LZWADAGA7KC654005,在公里数8986时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWADAGA5KE419333,在公里数1201时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J370003SGM WulingCN201型汽车,车架号LZWADAGA0KB007774,在公里数11325时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN115型汽车,车架号LZWADAGA4KC650011,在公里数2950时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J180020SGM WulingCN115型汽车,车架号LZWADAGA9KG372621,在公里数2580时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130009SGM WulingCN180S型汽车,车架号LZWADAGA0KG027378,在公里数1882时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131156SGM WulingCN115型汽车,车架号LZWADAGA3KC648878,在公里数2298时，故障现象:发动机故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J410021SGM WulingN300型汽车,车架号LZWCBAGA7KE644299,在公里数2900时，故障现象:客户反映故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130020SGM WulingCN185M型汽车,车架号LZWADAGA0KF590565,在公里数528时，故障现象:发卡
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN115型汽车,车架号LZWADAGA2KC677174,在公里数623时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWCDAGA2KE056319,在公里数2766时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN180W型汽车,车架号LZWADAGA8KG217090,在公里数1130时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWCDAGA9KE061338,在公里数4747时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN115型汽车,车架号LZWADAGAXKC656850,在公里数2433时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN115型汽车,车架号LZWADAGA6KC648597,在公里数3606时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441137SGM WulingCN100V型汽车,车架号LZWCDAGA2KE054201,在公里数4588时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130020SGM WulingCN115型汽车,车架号LZWADAGA5KC645755,在公里数2139时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN100V型汽车,车架号LZWCDAGA2KE059625,在公里数2489时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J140015SGM WulingCN115型汽车,车架号LZWADAGA5KC649689,在公里数1258时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321135SGM WulingCN185M型汽车,车架号LZWADAGA3KF589223,在公里数6373时，故障现象:检查故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130020SGM WulingCN115型汽车,车架号LZWADAGA9KC647525,在公里数9985时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441137SGM WulingN350P型汽车,车架号LZWDBAGB7KE827229,在公里数3362时，故障现象:故障灯亮P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J140015SGM WulingN300型汽车,车架号LZWCBAGA2KE416887,在公里数2500时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWADAGA7KE392393,在公里数4941时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371152SGM WulingCN201型汽车,车架号LZWADAGA0KB008147,在公里数6934时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN100V型汽车,车架号LZWCDAGA6KE054069,在公里数8902时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J140015SGM WulingN300型汽车,车架号LZWCBAGA2KE646655,在公里数1907时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN210M型汽车,车架号LZWADAGA2KB077342,在公里数1440时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131160SGM WulingCN185M型汽车,车架号LZWADAGA4KF587488,在公里数804时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN115型汽车,车架号LZWADAGA2KC661847,在公里数4155时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131160SGM WulingCN210M型汽车,车架号LZWADAGA3KB085675,在公里数9425时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN115型汽车,车架号LZWADAGA3KC545687,在公里数4825时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131160SGM WulingCN115型汽车,车架号LZWADAGA8KC651677,在公里数5731时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWCDAGA8KE055241,在公里数12349时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6411157SGM WulingCN115型汽车,车架号LZWADAGA9KG359609,在公里数280时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441197SGM WulingCN100V型汽车,车架号LZWCDAGA4KE052854,在公里数3275时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN210M型汽车,车架号LZWADAGA1KB076640,在公里数3216时，故障现象:发动机故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN115型汽车,车架号LZWADAGA2KC657295,在公里数12009时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130018SGM WulingCN115型汽车,车架号LZWADAGA8KC653512,在公里数5300时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWADAGA5KE054491,在公里数3891时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6411132SGM WulingCN115型汽车,车架号LZWADAGA5KC683941,在公里数997时，故障现象:堵塞
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130020SGM WulingCN150M型汽车,车架号LZWADAGA1KE273089,在公里数2139时，故障现象:行车时机舱异响
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441137SGM WulingN350P型汽车,车架号LZWCBAGB0KE849925,在公里数10371时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441137SGM WulingCN100V型汽车,车架号LZWCDAGA0KE054200,在公里数2386时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321135SGM WulingCN180W型汽车,车架号LZWADAGA1KG217321,在公里数3892时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWCDAGA3KE052814,在公里数6000时，故障现象:碳罐电磁阀厂家活动
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441137SGM WulingCN115型汽车,车架号LZWCDAGA5KG374214,在公里数6559时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130020SGM WulingCN201型汽车,车架号LZWADAGA0KB010013,在公里数4990时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130018SGM WulingCN185M型汽车,车架号LZWADAGA0KF589447,在公里数2900时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6311103SGM WulingCN180W型汽车,车架号LZWADAGA1KG210966,在公里数4002时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441137SGM WulingCN100V型汽车,车架号LZWCDAGA0KE052494,在公里数539时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6311110SGM WulingCN115型汽车,车架号LZWADAGA6KC648891,在公里数4756时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6411132SGM WulingCN185M型汽车,车架号LZWADAGA4KF591802,在公里数2400时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130018SGM WulingCN185M型汽车,车架号LZWADAGA6KF589498,在公里数3300时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371152SGM WulingCN180S型汽车,车架号LZWADAGA7KG032268,在公里数3710时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6611119SGM WulingCN185M型汽车,车架号LZWADAGA6KF589095,在公里数2597时，故障现象:该车故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321168SGM WulingCN100V型汽车,车架号LZWCDAGA3KE056717,在公里数5000时，故障现象:该车故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6411151SGM WulingCN115型汽车,车架号LZWADAGA9KC652546,在公里数1041时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321168SGM WulingCN180W型汽车,车架号LZWADAGA9KG217423,在公里数3500时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingN300型汽车,车架号LZWCAAGA8KE104245,在公里数4508时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN201型汽车,车架号LZWADAGA9KB008339,在公里数2750时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130018SGM WulingN300型汽车,车架号LZWCBAGA3KE644204,在公里数1500时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J520009SGM WulingCN185M型汽车,车架号LZWADAGA2KF587215,在公里数1379时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J370003SGM WulingCN201型汽车,车架号LZWADAGA9KB008986,在公里数25536时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J140015SGM WulingCN180S型汽车,车架号LZWADAGA0KG032161,在公里数900时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6371138SGM WulingCN210M型汽车,车架号LZWADAGA1KB079602,在公里数2786时，故障现象:车辆故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371173SGM WulingCN210M型汽车,车架号LZWADAGA9KB085437,在公里数6023时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371173SGM WulingCN100V型汽车,车架号LZWCDAGA5KE054340,在公里数4586时，故障现象:故障灯亮P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6311103SGM WulingCN180W型汽车,车架号LZWADAGA6KG216620,在公里数1430时，故障现象:短路
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441137SGM WulingN350P型汽车,车架号LZWCAAGB0KE810710,在公里数12662时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J140015SGM WulingCN115型汽车,车架号LZWADAGA5KC662663,在公里数4296时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371184SGM WulingN300型汽车,车架号LZWCBAGA9KE644871,在公里数1965时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN180S型汽车,车架号LZWADAGAXKG028795,在公里数4486时，故障现象:发动机故障灯常亮报P049700碳罐电磁阀卡滞常闭故障码
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingN300型汽车,车架号LZWDAAGA1KE396428,在公里数10381时，故障现象:发动机故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J140015SGM WulingCN115型汽车,车架号LZWADAGA5KG365228,在公里数27075时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131160SGM WulingCN115型汽车,车架号LZWADAGA1KC655117,在公里数1637时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371152SGM WulingCN202S型汽车,车架号LZWADAGA2KB231984,在公里数2865时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN180S型汽车,车架号LZWADAGA4JB860340,在公里数2100时，故障现象:更换碳罐电磁阀
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN202S型汽车,车架号LZWADAGA3KB232335,在公里数5109时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN115型汽车,车架号LZWADAGAXKC646061,在公里数3315时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWADAGA0KE049407,在公里数12148时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130020SGM WulingCN185M型汽车,车架号LZWADAGA2KF588980,在公里数960时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN100V型汽车,车架号LZWADAGA2KE413375,在公里数962时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN115型汽车,车架号LZWADAGA5KC654360,在公里数125时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J410027SGM WulingCN150M型汽车,车架号LZWADAGA7KE273288,在公里数563时，故障现象:碳罐电磁阀卡死
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6441137SGM WulingCN110V型汽车,车架号LZWCDAGA4KC824720,在公里数4980时，故障现象:故障灯亮P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130018SGM WulingN300型汽车,车架号LZWCAAGA2KE389709,在公里数1235时，故障现象:故障灯亮P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441137SGM WulingCN100V型汽车,车架号LZWCDAGA9KE052560,在公里数614时，故障现象:故障灯亮P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131160SGM WulingCN100V型汽车,车架号LZWCDAGA5KE057511,在公里数5606时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J370014SGM WulingCN185M型汽车,车架号LZWADAGA2KF579857,在公里数3235时，故障现象:发动机故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441137SGM WulingCN185M型汽车,车架号LZWADAGA5KF562308,在公里数7462时，故障现象:短路
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN115型汽车,车架号LZWADAGA2KC661850,在公里数2147时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWCDAGA6KE060003,在公里数4117时，故障现象:客户反映故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN115型汽车,车架号LZWADAGA5KC658070,在公里数3412时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J370014SGM WulingCN210M型汽车,车架号LZWADAGA3KB081304,在公里数2559时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441137SGM WulingCN110V型汽车,车架号LZWCDAGA5KE059778,在公里数15878时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN210M型汽车,车架号LZWADAGA2KB080905,在公里数7052时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321128SGM WulingCN115型汽车,车架号LZWADAGA0KC649650,在公里数6963时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J370009SGM WulingCN185M型汽车,车架号LZWADAGA3KE572903,在公里数4321时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J370011SGM WulingCN210M型汽车,车架号LZWADAGA8KB081282,在公里数4956时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN115型汽车,车架号LZWADAGA2KC656325,在公里数5525时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130018SGM WulingCN100V型汽车,车架号LZWCDAGA9KE053398,在公里数10000时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN115型汽车,车架号LZWADAGAXKC657237,在公里数2311时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130020SGM WulingCN115型汽车,车架号LZWADAGA9KG359805,在公里数5823时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321140SGM WulingCN185M型汽车,车架号LZWADAGAXJF433351,在公里数7009时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN110V型汽车,车架号LZWCDAGA2KC824537,在公里数1429时，故障现象:故障灯亮P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J370011SGM WulingCN180S型汽车,车架号LZWADAGA6KF126258,在公里数6388时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN100V型汽车,车架号LZWCDAGAXKE054480,在公里数1512时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingN300型汽车,车架号LZWDAAGA0KE413073,在公里数2199时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371173SGM WulingCN115型汽车,车架号LZWCDAGA0KG374413,在公里数1700时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J370009SGM WulingCN180S型汽车,车架号LZWADAGA9KF126251,在公里数2863时，故障现象:厂家活动
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6311109SGM WulingCN115型汽车,车架号LZWADAGA4KC648105,在公里数1129时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN115型汽车,车架号LZWADAGA0KC659756,在公里数7976时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J140015SGM WulingN300型汽车,车架号LZWCBAGA0KE644130,在公里数2500时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130020SGM WulingCN115型汽车,车架号LZWADAGA3KC641781,在公里数7000时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371139SGM WulingCN185M型汽车,车架号LZWADAGA3KF584131,在公里数5012时，故障现象:检查故障灯亮P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6611119SGM WulingCN180W型汽车,车架号LZWADAGA4KG217250,在公里数6940时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441137SGM WulingCN100V型汽车,车架号LZWADAGA3KE417709,在公里数2761时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321128SGM WulingCN100V型汽车,车架号LZWADAGA1KE418938,在公里数2306时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN100V型汽车,车架号LZWCDAGA3KE054482,在公里数6696时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN100V型汽车,车架号LZWCDAGA4KE064549,在公里数5352时，故障现象:发动机故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441137SGM WulingCN115型汽车,车架号LZWCDAGAXKG374435,在公里数4173时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321135SGM WulingCN100V型汽车,车架号LZWADAGA3KE418441,在公里数4326时，故障现象:发动机故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J140015SGM WulingCN115型汽车,车架号LZWADAGA1KC649706,在公里数2030时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN115型汽车,车架号LZWADAGA8KC657236,在公里数1012时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingN300型汽车,车架号LZWDAAGA5KE406216,在公里数5055时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321168SGM WulingCN115型汽车,车架号LZWADAGA6KC661592,在公里数2108时，故障现象:该车故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN100V型汽车,车架号LZWCDAGA7KE057806,在公里数702时，故障现象:发动机故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130018SGM WulingCN115型汽车,车架号LZWADAGA2KC653523,在公里数4200时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN201型汽车,车架号LZWADAGA3KB008319,在公里数10659时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN210M型汽车,车架号LZWADAGA5KB076430,在公里数5118时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441137SGM WulingCN115型汽车,车架号LZWADAGA4KG372705,在公里数3872时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN100V型汽车,车架号LZWADAGAXKE413270,在公里数731时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371180SGM WulingCN180W型汽车,车架号LZWADAGA9KG213890,在公里数5110时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321168SGM WulingCN115型汽车,车架号LZWADAGA8KC660654,在公里数4000时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441137SGM WulingCN100V型汽车,车架号LZWADAGA0KE056410,在公里数7186时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J410027SGM WulingCN185M型汽车,车架号LZWADAGAXKF597684,在公里数650时，故障现象:碳罐电磁阀
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371181SGM WulingCN100V型汽车,车架号LZWADAGA3KE414373,在公里数5697时，故障现象:蒸发系统泄漏
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6411151SGM WulingCN115型汽车,车架号LZWADAGA5KC654374,在公里数1506时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371139SGM WulingCN100V型汽车,车架号LZWADAGA0KE048856,在公里数16013时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6311110SGM WulingCN115型汽车,车架号LZWADAGA0KC660681,在公里数4054时，故障现象:P045700燃油蒸发系统泄漏
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130018SGM WulingCN180W型汽车,车架号LZWADAGA4KG218253,在公里数8600时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J370011SGM WulingCN210S型汽车,车架号LZWADAGA9KB364628,在公里数1732时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN115型汽车,车架号LZWCDAGA4KG374088,在公里数1072时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130018SGM WulingCN185M型汽车,车架号LZWADAGA8KF588546,在公里数2900时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6611119SGM WulingCN185M型汽车,车架号LZWADAGA1KF589084,在公里数2217时，故障现象:该车故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN185M型汽车,车架号LZWADAGA4KF575812,在公里数5647时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingN300型汽车,车架号LZWCAAGA8KE404536,在公里数7212时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130020SGM WulingCN185M型汽车,车架号LZWADAGA2KF582922,在公里数18236时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371139SGM WulingCN185M型汽车,车架号LZWADAGA1KF585388,在公里数4907时，故障现象:故障灯亮,故障码P045700
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6611119SGM WulingCN185M型汽车,车架号LZWADAGA7KF590126,在公里数1251时，故障现象:该车故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN210M型汽车,车架号LZWADAGAXKB078481,在公里数3015时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J140015SGM WulingN300型汽车,车架号LZWCBAGA0KE644130,在公里数2500时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130021SGM WulingCN185M型汽车,车架号LZWADAGA2KF589806,在公里数1431时，故障现象:发动机故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN115型汽车,车架号LZWADAGA8KC656619,在公里数1128时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6311110SGM WulingCN100V型汽车,车架号LZWCDAGA3KE059245,在公里数2672时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN115型汽车,车架号LZWADAGA4KC650042,在公里数8961时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN115型汽车,车架号LZWADAGA8KC660573,在公里数2876时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130018SGM WulingCN115型汽车,车架号LZWADAGA8KC653512,在公里数4500时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130018SGM WulingCN115型汽车,车架号LZWADAGA0KC653522,在公里数2061时，故障现象:有故障码P045700
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN185M型汽车,车架号LZWADAGAXKF583946,在公里数6242时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6411168SGM WulingCN185M型汽车,车架号LZWADAGA3KF584999,在公里数1795时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN115型汽车,车架号LZWADAGA8KC651811,在公里数2583时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN115型汽车,车架号LZWADAGA5KC662491,在公里数2921时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN115型汽车,车架号LZWADAGA9KC634631,在公里数2340时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN100V型汽车,车架号LZWCDAGA8KE062582,在公里数552时，故障现象:碳罐电磁阀常闭
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingN300型汽车,车架号LZWCAAGA2KE638753,在公里数2894时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN115型汽车,车架号LZWADAGA5KC646310,在公里数903时，故障现象:发动机故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130020SGM WulingCN115型汽车,车架号LZWCDAGAXKG373933,在公里数1326时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131161SGM WulingCN100V型汽车,车架号LZWCDAGA4KE053356,在公里数2455时，故障现象:发动机故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN115型汽车,车架号LZWADAGA9KC657231,在公里数2589时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321116SGM WulingCN100V型汽车,车架号LZWADAGA4KE044826,在公里数6100时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN201型汽车,车架号LZWADAGA7KB008341,在公里数3405时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6411176SGM WulingCN185M型汽车,车架号LZWADAGA7KF564433,在公里数2263时，故障现象:碳罐电磁阀卡滞常闭
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130021SGM WulingCN185M型汽车,车架号LZWADAGA0KF564516,在公里数4983时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130020SGM WulingCN185M型汽车,车架号LZWADAGA3KF586977,在公里数1656时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371178SGM WulingCN185M型汽车,车架号LZWADAGA3KF582119,在公里数10720时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130021SGM WulingCN115型汽车,车架号LZWADAGA3KC659783,在公里数11021时，故障现象:更换碳罐电磁阀
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371178SGM WulingCN115型汽车,车架号LZWADAGA3KC651439,在公里数2259时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J370030SGM WulingCN185M型汽车,车架号LZWADAGA8KF590510,在公里数2693时，故障现象:该车发动机故障灯常亮,故障码P045700
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321168SGM WulingN300型汽车,车架号LZWCAAGA0KE651145,在公里数2800时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130021SGM WulingCN115型汽车,车架号LZWADAGA1KC656302,在公里数3081时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321128SGM WulingCN115型汽车,车架号LZWADAGA2KC651741,在公里数3443时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131116SGM WulingCN210M型汽车,车架号LZWADAGA2KB075588,在公里数2262时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371178SGM WulingCN185M型汽车,车架号LZWADAGA0KF584071,在公里数11100时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWADAGA6KE434830,在公里数3513时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130023SGM WulingN300型汽车,车架号LZWCBAGA8KE642853,在公里数1032时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371181SGM WulingCN100V型汽车,车架号LZWCDAGA7KE057028,在公里数3897时，故障现象:燃油泄漏
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6331193SGM WulingCN210M型汽车,车架号LZWADAGA0KB078702,在公里数3408时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130018SGM WulingCN185M型汽车,车架号LZWADAGA7KF588862,在公里数1600时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWADAGA4KE433890,在公里数3859时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371139SGM WulingCN100V型汽车,车架号LZWADAGA9KE055689,在公里数8001时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN180W型汽车,车架号LZWADAGA5KG216964,在公里数862时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130018SGM WulingCN180W型汽车,车架号LZWADAGA5KG216771,在公里数5827时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371184SGM WulingCN185M型汽车,车架号LZWADAGA4KF591072,在公里数3243时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371139SGM WulingN300型汽车,车架号LZWCBAGA2KE644890,在公里数2040时，故障现象:检查车辆故障灯亮,故障码P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J370011SGM WulingCN185M型汽车,车架号LZWADAGA5KF576287,在公里数3012时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN115型汽车,车架号LZWADAGA4KG373160,在公里数1721时，故障现象:碳罐电磁阀常闭
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371178SGM WulingCN185M型汽车,车架号LZWADAGA0KF582076,在公里数1800时，故障现象:发卡
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN180W型汽车,车架号LZWADAGA7KG216724,在公里数2669时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN180W型汽车,车架号LZWADAGA2KG211897,在公里数2380时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130021SGM WulingCN185M型汽车,车架号LZWADAGA0KF579792,在公里数4535时，故障现象:发动机故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWADAGA8KE058521,在公里数6077时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN115型汽车,车架号LZWADAGA2KC661847,在公里数4155时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131116SGM WulingCN115型汽车,车架号LZWADAGA7KC649888,在公里数1723时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWADAGA6KE402783,在公里数3802时，故障现象:客户反映发动机故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371178SGM WulingCN185M型汽车,车架号LZWADAGA5KF584079,在公里数4970时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371178SGM WulingN300型汽车,车架号LZWCBAGA2KE649099,在公里数5100时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130023SGM WulingCN115型汽车,车架号LZWADAGA2KC654011,在公里数4003时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371180SGM WulingCN180S型汽车,车架号LZWADAGA3KG032162,在公里数3075时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321168SGM WulingCN180S型汽车,车架号LZWADAGAXKG030207,在公里数3400时，故障现象:该车故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371168SGM WulingCN115型汽车,车架号LZWADAGA0KC659224,在公里数3216时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321128SGM WulingCN100V型汽车,车架号LZWADAGA9KE055790,在公里数7230时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131156SGM WulingCN115型汽车,车架号LZWADAGA5KC652608,在公里数2673时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWADAGA4KE403978,在公里数4801时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN115型汽车,车架号LZWADAGA4KC662479,在公里数1511时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130023SGM WulingCN100V型汽车,车架号LZWADAGA9KE405547,在公里数6082时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN201型汽车,车架号LZWADAGA3KB008319,在公里数10659时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN185M型汽车,车架号LZWADAGA8KF565607,在公里数4456时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371139SGM WulingCN185M型汽车,车架号LZWADAGA4KF562395,在公里数5041时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371181SGM WulingCN115型汽车,车架号LZWADAGA6KC651449,在公里数1500时，故障现象:油箱盖丢失
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130021SGM WulingCN115型汽车,车架号LZWADAGA5KC656111,在公里数4940时，故障现象:更换电磁阀活动
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWADAGA4KE419548,在公里数17393时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN185M型汽车,车架号LZWADAGA5KF564480,在公里数5521时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131116SGM WulingCN115型汽车,车架号LZWADAGAXKC651633,在公里数13538时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130021SGM WulingCN180S型汽车,车架号LZWADAGA0KG032158,在公里数4100时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130021SGM WulingCN185M型汽车,车架号LZWADAGA8JF522528,在公里数10961时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321128SGM WulingCN115型汽车,车架号LZWADAGA1KC651732,在公里数4325时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441194SGM WulingCN100V型汽车,车架号LZWADAGA7KE051379,在公里数2610时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWADAGA1KE058778,在公里数4973时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130018SGM WulingCN180S型汽车,车架号LZWADAGA8KG035423,在公里数1501时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131169SGM WulingCN115型汽车,车架号LZWADAGAXKC659974,在公里数466时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN100V型汽车,车架号LZWADAGAXKE050257,在公里数7873时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J370022SGM WulingCN185M型汽车,车架号LZWADAGA5KF581652,在公里数8311时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441194SGM WulingCN115型汽车,车架号LZWADAGA0KC650250,在公里数4102时，故障现象:漏气
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131116SGM WulingCN210M型汽车,车架号LZWADAGA3KB075616,在公里数8229时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130021SGM WulingCN115型汽车,车架号LZWADAGA5KC652172,在公里数8211时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J370009SGM WulingCN185M型汽车,车架号LZWADAGA0KF578058,在公里数4340时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN210M型汽车,车架号LZWADAGA2KB081052,在公里数6214时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6321118SGM WulingCN100V型汽车,车架号LZWADAGAXKE418064,在公里数6052时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6311103SGM WulingCN185M型汽车,车架号LZWADAGA6KF586942,在公里数7843时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN115型汽车,车架号LZWADAGA5KC659395,在公里数6552时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131169SGM WulingCN180W型汽车,车架号LZWADAGA1KG217027,在公里数1808时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441173SGM WulingCN210M型汽车,车架号LZWADAGA0KB074391,在公里数2026时，故障现象:活动件更换碳罐电磁阀总成
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371139SGM WulingCN115型汽车,车架号LZWADAGA6KC634683,在公里数2364时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371139SGM WulingCN115型汽车,车架号LZWADAGA1KC655375,在公里数4521时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6611119SGM WulingCN185M型汽车,车架号LZWADAGA9KF582478,在公里数6600时，故障现象:该车故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130021SGM WulingCN185M型汽车,车架号LZWADAGA1JF516618,在公里数16334时，故障现象:发动机故障码
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130027SGM WulingCN115型汽车,车架号LZWADAGA5KC645626,在公里数2723时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J330012SGM WulingCN185M型汽车,车架号LZWADAGA1KF572933,在公里数2892时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441194SGM WulingCN115型汽车,车架号LZWADAGAXKC661630,在公里数1552时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441173SGM WulingCN180S型汽车,车架号LZWADAGA4KC028694,在公里数8569时，故障现象:更换碳罐电磁阀
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：6441197SGM WulingN300型汽车,车架号LZWCBAGA0KE645407,在公里数2070时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN201型汽车,车架号LZWADAGA4KB008510,在公里数30254时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371178SGM WulingCN100V型汽车,车架号LZWADAGA4KE425348,在公里数6300时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J440025SGM WulingCN185M型汽车,车架号LZWADAGA6KF584219,在公里数4830时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6441194SGM WulingN300型汽车,车架号LZWDAAGA0KE406348,在公里数4583时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130020SGM WulingCN115型汽车,车架号LZWADAGA4KC645939,在公里数4325时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6371139SGM WulingCN100V型汽车,车架号LZWADAGAXKE424947,在公里数3312时，故障现象:检查故障灯亮,故障码P049700
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6311103SGM WulingCN100V型汽车,车架号LZWADAGA5KE044639,在公里数7066时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN201型汽车,车架号LZWADAGA6KB008251,在公里数4999时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN210M型汽车,车架号LZWADAGA8KB074929,在公里数14857时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：J130021SGM WulingCN210M型汽车,车架号LZWADAGA5KB078386,在公里数3290时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6371138SGM WulingCN100V型汽车,车架号LZWCDAGAXKE057492,在公里数3100时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130019SGM WulingCN185M型汽车,车架号LZWADAGA5KF584261,在公里数2133时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J500001SGM WulingCN115型汽车,车架号LZWADAGA0KC648952,在公里数9941时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6411156SGM WulingCN110V型汽车,车架号LZWCDAGA8KC824932,在公里数3201时，故障现象:车辆报码,油箱盖缺失
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J130021SGM WulingCN115型汽车,车架号LZWADAGA0KC644206,在公里数233时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6121110SGM WulingCN202M型汽车,车架号LZWADAGA7KB741652,在公里数14307时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：6131157SGM WulingCN180S型汽车,车架号LZWADAGA9KG033471,在公里数100时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6441197SGM WulingCN100V型汽车,车架号LZWADAGA7KE420760,在公里数1328时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6371146SGM WulingCN180S型汽车,车架号LZWADAGA5KF127112,在公里数4时，故障现象:更换碳罐电磁阀活动
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6121110SGM WulingCN115型汽车,车架号LZWADAGA7KC653551,在公里数14508时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6411118SGM WulingCN185M型汽车,车架号LZWADAGA9KF584991,在公里数3220时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：J130019SGM WulingCM115型汽车,车架号LZWADAGAXKC657268,在公里数2012时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Valve can't open at small duty cycle具体为：Critical defect
+问：J340001SGM WulingCN185M型汽车,车架号LZWADAGA1KF587612,在公里数6531时，故障现象:发动机故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6321159SGM WulingCN180W型汽车,车架号LZWADAGA7KG212141,在公里数11917时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6441194SGM WulingN300型汽车,车架号LZWDAAGA1KE639512,在公里数3630时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：J130003SGM WulingCN180S型汽车,车架号LZWADAGA3KG011935,在公里数5695时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6371138SGM WulingCN100V型汽车,车架号LZWCDAGA8KE056955,在公里数2500时，故障现象:车辆故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6321158SGM WulingCN185M型汽车,车架号LZWADAGA8KF594671,在公里数3094时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6131165SGM WulingCN180S型汽车,车架号LZWADAGA1KG033139,在公里数4300时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6441185SGM WulingCN100V型汽车,车架号LZWCDAGA9KE065468,在公里数2754时，故障现象:故障灯常亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6321159SGM WulingCN115型汽车,车架号LZWADAGA9KC656760,在公里数1100时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：6411118SGM WulingCN115型汽车,车架号LZWADAGA8KG361044,在公里数2012时，故障现象:故障灯亮
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：Performance loss、Function failure
+问：7580368FAW-Volkswagen型汽车,车架号LFV2B28U6J3367919,在公里数9673时，故障现象:发动机故障灯亮，经查燃油泵输送故障，更换高压燃油泵
+答：HIGH PRESSURE PUMP发生MECHANICAL DAMAGE具体为：mechanical damage
+问：7582306FAW-Volkswagen型汽车,车架号LFV2B2A1XK5430252,在公里数2458时，故障现象:高压油泵异响，高压油泵内部故障，更换高压油泵
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582306FAW-Volkswagen型汽车,车架号LFV2B2A1XK5430347,在公里数8627时，故障现象:发动机异响，高压泵内部管故障，更换高压油泵
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582108FAW-Volkswagen型汽车,车架号LFV2B2A17J5584870,在公里数7104时，故障现象:车辆启动时机舱有哒哒异响，燃油高压泵异响，更换－
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582215FAW-Volkswagen型汽车,车架号LFV2B25G5G5100444,在公里数42978时，故障现象:高压油泵异响,高压油泵故障，更换高压油泵。
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582280FAW-Volkswagen型汽车,车架号LFV2A23C4J3010708,在公里数36755时，故障现象:怠速时发动机噪音大，怠速高压泵93.9dBA故障，更换
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582122FAW-Volkswagen型汽车,车架号LFV2B25G8G5096681,在公里数52348时，故障现象:发动机处异响查为高压泵问题更换高压泵
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582196FAW-Volkswagen型汽车,车架号LFV2A21K0H4271025,在公里数56806时，故障现象:高压泵工作时哒哒异响，高压泵故障，更换
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582213FAW-Volkswagen型汽车,车架号LFV2B20S2H5047635,在公里数23005时，故障现象:加油时有异响，高压泵故障，更换。
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582282FAW-Volkswagen型汽车,车架号LFV2B2159H3209586,在公里数15352时，故障现象:高压泵异响，高压泵故障，更换高压泵
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582122FAW-Volkswagen型汽车,车架号LFV1A21K9H4235068,在公里数43057时，故障现象:高压泵异响查为高压泵问题更换高压泵
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582110FAW-Volkswagen型汽车,车架号LFV2A21K2J4004233,在公里数39659时，故障现象:高压泵异响，经查高压泵内部机械故障导致怠速时发动机噪音大，更换高压泵
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582240FAW-Volkswagen型汽车,车架号LFV2B25GXG5147520,在公里数34566时，故障现象:检查车辆怠速工况下发动机异响，高压泵机械故障，更换高压泵。
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582122FAW-Volkswagen型汽车,车架号LFV2A21K3H4214172,在公里数27014时，故障现象:高压泵异响查为高压泵问题更换高压泵
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582281FAW-Volkswagen型汽车,车架号LFV2B20S6J5263929,在公里数20541时，故障现象:高压泵异响，高压泵故障，更换
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582247FAW-Volkswagen型汽车,车架号LFV2A2BU5K4310540,在公里数5291时，故障现象:检查高压泵故障导致发动机噪音大，更换高压泵
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：7582189FAW-Volkswagen型汽车,车架号LFV2B25GXH5103163,在公里数34992时，故障现象:车辆怠速时有哒哒声，高压泵机械故障导致，更换高压泵
+答：HIGH PRESSURE PUMP发生CONNECTOR MECHANICAL DAMAGE具体为：mechanical damage
+问：江门粤怡Greatwall型汽车,车架号LGWEF4A58KF271952,在公里数10时，故障现象:车辆启动困难
+答：ROT.-Speed Sensor发生wire broken at inlet conductive sheet具体为：Performance loss、Function failure
+问：平凉吉通GeelyJL6453L09型汽车,车架号LB37742S1HC074799,在公里数45665时，故障现象:用户致电服务站反应车辆在行驶过程中发动机故障灯亮,突然熄火无法启动, 发动机舱冒烟, 拖回服务站后检查,经检查发动机舱内机舱保险盒有一个保险丝断裂
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：天津中远GeelyJL7182L04N型汽车,车架号LB377K4S6JX164160,在公里数37245时，故障现象:车辆故障灯亮,有时不好着车,经检查电子节气门体内部故障,控制不良导致
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：天水吉瑞达GeelyJL7152L01N型汽车,车架号LB377K4S1JX131938,在公里数59165时，故障现象:客户报修车辆仪表故障灯常亮, 在行驶过程中加速无力且发抖, 经我站技师陪同路试确实有此现象, 清洗进气系统后,故障再现,用电脑检测仪读取故障码数据显示是P022T
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：朝阳捷奥GeelyJL7152L01N型汽车,车架号LB377K4S6JX124113,在公里数22585时，故障现象:1.客户反映发动机故障灯亮, 车没有劲, 2.电脑检测故障码P0221 3.检查插头正常, 4.更换电子节气门总成
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：甘肃驰辰GeelyJL7182L04N型汽车,车架号LB377K4S0JX154420,在公里数44650时，故障现象:用户进站反映车辆偶发性加油不走现象, 技师陪同用户试车故障再次发生, 排除油门踏板及相关线束插接正常,解码仪检测电子节气门位置传感器电压过低故障
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：甘肃驰辰GeelyJL7182L04N型汽车,车架号LB377K4S4JX153514,在公里数36358时，故障现象:用户反映车辆偶发性加油不走现象, 进站维修时技师检测是电子节气门内部传感器件故障导致, 更换后故障排除.
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：甘肃驰辰GeelyJL7182L04N型汽车,车架号LB377K4S3KX024469,在公里数5563时，故障现象:用户反映发动机故障灯亮, 维修技师检查后确认故障存在, 用解码仪检测并读取故障码, 初步鉴定为电子节气门体故障导致, 更换电子节气门体后故障排除
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：湖南涨亿GeelyJL6453L09型汽车,车架号LB37742S8JC096949,在公里数9992时，故障现象:该车偶发性行驶时加油无力并伴有顿挫感,维修技师试车点火挂一档将有门踩到底仍然加速不起, 手动熄火再次点火后又能恢复正常行驶
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：嫩江元亨GeelyJL6453L09型汽车,车架号LB37742S4GC330237,在公里数38393时，故障现象:用户反映:车辆行驶中加油没反应发动机故障灯常亮,维修技师检查,故障灯常亮, 用检测电脑检查故障为节气门故障, 用万用表测量判断为节气门故障
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：遵义凯欣致利GeelyJL7132L01型汽车,车架号LB37724S7HX719613,在公里数34466时，故障现象:客户反映行驶加油提不起速, 试车确认故障, 用电脑读取数据为历史故障, P1568-电子节气门回位阻力过大,P1545-电子节气门实际位置与目标位置偏差超限等故障
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：天水吉瑞达GeelyJL7152L01N型汽车,车架号LB377K4SXJX132800,在公里数22488时，故障现象:该车反映车辆在行驶中发动机发抖,加不进去油,初步清洗进气系统后故障未排除,维修技师用电脑检测仪读取故障码数据显示是:电子节气门位置信号不合理
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：甘肃驰辰GeelyJL7182L04N型汽车,车架号LB377K4S5JX153523,在公里数57165时，故障现象:用户进站反映车辆偶发性加油不走现象, 技师陪同用户试车故障再次发生, 排除油门踏板及相关线束插接正常, 解码仪检测电子节气门位置传感器电压过低故障, 更换后故障排除
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：大同瑞力骋GeelyJL7152L13型汽车,车架号LB37724S9HX001190,在公里数48129时，故障现象:客户反映该车的怠速一直在1000转左右,经维修技师检查后,为客户清洗节气门后也无法将怠速降下来, 电脑检查也没有故障码,判断为是节气门体故障导致,
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：甘肃驰辰GeelyJL7182L04N型汽车,车架号LB377K4SXJX153520,在公里数42151时，故障现象:用户进站反映车辆偶发性加油不走现象, 技师陪同用户试车故障再次发生, 排除油门踏板及相关线路插接正常, 解码仪检测电子节气门位置传感器电压过低故障更换后故障排除
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：南阳天义豪GeelyJL6453L09型汽车,车架号LB37742SXHC115155,在公里数23294时，故障现象:顾客进站反映车辆启动时怠速高, 我站工作人员清洗节气门,检查节气门线路并无异响, 进一步检查为电子节气门组件导致故障,更换后故障排除
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：四川Byd型汽车,车架号LC0C34CG3K1036045,在公里数10时，故障现象:车辆行驶过程中排气管内冒白烟并且有生汽油味、然后车辆发动机抖动后熄火打不着车
+答：HIGH PRESSURE FUEL RAIL ASSEMBLY发生SOLDERING FAILURE具体为：Performance loss、Function failure
+问：海南优之杰First Auto WorksCA6500T型汽车,车架号LFB1F068XK2L10704,在公里数4132时，故障现象:有故障
+答：DIAGNOSIS MODULE TANK LEAKAGE发生Mechanical damage具体为：mechanical damage
+问：天津天汇永达汽车ChangAn FordCAM7150A57型汽车,车架号LVRHDFAL6HN031128,在公里数42649时，故障现象:车辆无法启动
+答：FUEL PUMP MODULE发生Three direct links/EKP seal ring deforma具体为：mechanical damage
+问：北京金利泰合Saic Motor型汽车,车架号LSFAM11J3KA067087,在公里数558时，故障现象:氧传感器故障
+答：OXYGEN SENSOR发生water or contaminants in connector具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：广物盈通Saic Motor型汽车,车架号LSFAM11J9HA105706,在公里数14456时，故障现象:故障灯点亮
+答：OXYGEN SENSOR发生sensor element crack in exhaust side具体为：Performance loss、Function failure
+问：4114013长春隆通Saic MotorD90型汽车,车架号LSFA431J7JA099468,在公里数16041时，故障现象:近光开关开启后，近光灯不亮
+答：BODY CONTROL MODULE发生Mechnical damage具体为：Performance loss、Function failure
+问：4118012南阳清杰Saic MotorV80型汽车,车架号LSKG5GC17KA087772,在公里数4500时，故障现象:故障灯亮
+答：BODY CONTROL MODULE发生Corrupt by water具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：4120049淮北睿晟Saic MotorG50型汽车,车架号LSKG4BC15KD051826,在公里数7812时，故障现象:左侧日间行车灯无法关闭
+答：BODY CONTROL MODULE发生Corrupt by water具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：4169040四川顺屹嘉Saic MotorG10型汽车,车架号LSKG4GC18KA079795,在公里数24781时，故障现象:晚上行驶过程中，在开大灯未开前雾灯的情况下，前雾灯指示灯会偶尔微亮闪烁
+答：BODY CONTROL MODULE发生Corrupt by water具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：4114013长春隆通Saic MotorG10型汽车,车架号LSKG4AC11JA090150,在公里数30243时，故障现象:挂倒挡时刹车灯亮
+答：BODY CONTROL MODULE发生Corrupt by water具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：成都鸿瑞First Auto WorksCA7166ATE6型汽车,车架号LFP83APCXK1D43706,在公里数3411时，故障现象:故障灯亮
+答：DIAGNOSIS MODULE TANK LEAKAGE发生Mechanical damage具体为：mechanical damage
+问：山东润泓First Auto WorksCA7166ATE6型汽车,车架号LFP83APCXK1D49019,在公里数2566时，故障现象:异响
+答：DIAGNOSIS MODULE TANK LEAKAGE发生Mechanical damage具体为：mechanical damage
+问：J001First Auto Works国产ATENZA型汽车,车架号LFPM5ACP0J1A11208,在公里数25718时，故障现象:客户到店反映,车辆出现发动机故障灯亮
+答：FUEL PUMP MODULE发生TSG ceramic plate broken具体为：mechanical damage
+问：J001First Auto WorksCX-4型汽车,车架号LFPM4APE2G1A48507,在公里数56698时，故障现象:客户反馈说他的车子无法正常启动了
+答：FUEL PUMP MODULE发生Three direct links/EKP seal ring deforma具体为：mechanical damage
+问：J001First Auto WorksCX-4型汽车,车架号LFPM4APE6G1A56979,在公里数57177时，故障现象:客户电话反馈说他的车子无法正常启动了
+答：FUEL PUMP MODULE发生TSG ceramic plate broken具体为：mechanical damage
+问：J001First Auto WorksCX-4型汽车,车架号LFPM5CPPXG1A81524,在公里数43525时，故障现象:客户将车辆拖回至本店反映车辆无法发动,要求店内解决
+答：FUEL PUMP MODULE发生Carbon brush abnormal abrasion具体为：Performance loss、Function failure
+问：J001First Auto WorksM6型汽车,车架号LFPM4ACC4E1A96110,在公里数125324时，故障现象:客户来店里检查油表不准
+答：FUEL PUMP MODULE发生Floater missing具体为：Critical defect
+问：J001First Auto WorksM6型汽车,车架号LFPM4ACC5E1E11626,在公里数63033时，故障现象:车辆启动费劲,需要多次点火
+答：FUEL PUMP MODULE发生Floater missing具体为：Critical defect
+问：吉林中海First Auto WorksCA7162型汽车,车架号LFP83ACC2J1D38651,在公里数22075时，故障现象:无法启动
+答：FUEL PUMP MODULE发生EKP failure due to dry run具体为：Performance loss、Function failure
+问：4106001重庆冠鸿Saic MotorV80型汽车,车架号LSKG4GC19FA239396,在公里数94469时，故障现象:车门遥控和中控无法正常使用
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：4104050浙江意通Saic MotorV80型汽车,车架号LSKG4GC16JA061682,在公里数19000时，故障现象:无法启动
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：4103023昆山联合永通Saic MotorEV80型汽车,车架号LSH14J4C1HA080286,在公里数32805时，故障现象:电子手刹松不掉
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：常德帝豪GeelyMR7183C01型汽车,车架号L6T7944Z6GN483206,在公里数39781时，故障现象:用户反应车辆发车不来
+答：FUEL PUMP MODULE发生Flange pin ablation具体为：Performance loss、Function failure
+问：嘉兴东江GeelyMR7183C01型汽车,车架号L6T7944Z8GN462115,在公里数29889时，故障现象:车辆发动不了
+答：FUEL PUMP MODULE发生Flange pin ablation具体为：Performance loss、Function failure
+问：丽水吉通GeelyMR7183C01型汽车,车架号L6T7944Z6GN467555,在公里数42974时，故障现象:该车无法启动
+答：FUEL PUMP MODULE发生Flange pin ablation具体为：Performance loss、Function failure
+问：西安国利GeelyMR7183C01型汽车,车架号L6T7944Z8GN459988,在公里数54900时，故障现象:客户反映行驶中仪表电瓶灯亮,加不上油然后自动熄火
+答：FUEL PUMP MODULE发生Flange pin ablation具体为：Performance loss、Function failure
+问：吉利超市GeelyMR7183C01型汽车,车架号L6T7944Z0GN476753,在公里数56516时，故障现象:客户反馈车辆打火无法启动
+答：FUEL PUMP MODULE发生Flange pin ablation具体为：Performance loss、Function failure
+问：榆林吉瑞通GeelyMR7183C01型汽车,车架号L6T7944Z6GN475302,在公里数59998时，故障现象:客户反应油表不准
+答：FUEL PUMP MODULE发生TSG wire harness missing具体为：mechanical damage
+问：六安通立达GeelyMR7183C01型汽车,车架号L6T7944Z0GN476865,在公里数58801时，故障现象:车辆无法启动
+答：FUEL PUMP MODULE发生Flange pin ablation具体为：Performance loss、Function failure
+问：长春义成GeelyMR64536C04型汽车,车架号L6T7742Z4GN484816,在公里数34813时，故障现象:客户反映车辆油表不准
+答：FUEL PUMP MODULE发生Flange broken具体为：mechanical damage
+问：江西和众GeelyMR7183C05型汽车,车架号L6T7944Z4HN488907,在公里数40009时，故障现象:客户反映车辆不能启动
+答：FUEL PUMP MODULE发生Pump rust具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：太原老兵GeelyMR7183C05型汽车,车架号L6T7944Z7HN486035,在公里数59584时，故障现象:油表不准
+答：FUEL PUMP MODULE发生TSG resistance belt abrasion具体为：Performance loss、Function failure
+问：广州市明煜GeelySC7144GCA6型汽车,车架号LS5A3AKR4KA000591,在公里数7762时，故障现象:故障码为P0455
+答：ELECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：南阳天义豪GeelyMR7152L21型汽车,车架号L6T7824S0HN246819,在公里数44501时，故障现象:车辆启动时怠速高
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：大同瑞力GeelyMR7152L23型汽车,车架号L6T7722S3HN016018,在公里数16442时，故障现象:该车怠速值比较高
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：青岛利驰GeelyMR7152C09型汽车,车架号L6T7824Z3JN156549,在公里数23794时，故障现象:客户反应车辆间隙性发动机故障灯亮
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：雅安吉瑞品信GeelyHQ6453C04型汽车,车架号LB37742D6HB012709,在公里数54872时，故障现象:车辆加速无力
+答：1LECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：聊城鲁翔GeelyHQ6453003型汽车,车架号LB37742Z2JB081527,在公里数13486时，故障现象:客户反应车辆组合仪表上发动机故障灯亮
+答：ELECTRIC THROTTLE BODY发生Chip breakdown具体为：Performance loss、Function failure
+问：上海华庭GeelyHQ6453C03型汽车,车架号LB37742ZXJB116525,在公里数9439时，故障现象:发动机故障灯亮
+答：ELECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：新疆中惠军利GeelyHQ6453C03型汽车,车架号LB37742Z3JB028738,在公里数13951时，故障现象:发动机故障灯亮
+答：ELECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：赤峰传奇GeelyHQ7182L05型汽车,车架号LB37844S1GH051437,在公里数17619时，故障现象:车主表示车辆启动后,后座油箱处有异响, 通过到店检查确定为油箱内无法进入空气产生负压力,油箱本体收缩导致异响,属于碳罐控制阀不通气,更换碳罐控制阀
+答：Canister purge valve发生Foreign substance between the armature a具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：河南润辉GeelyHQ6453D24型汽车,车架号LB37742Z5KB053240,在公里数702时，故障现象:客户反映车辆行驶中发动机故障灯亮, 前几天亮灯进站升级软件几天后故障再次出现, 经技师检查故障真实存在,检测发动机软件版本为最新版本,诊断仪检测故障码为:P04F000
+答：CANISTER PURGE VALVE ASSEMBLY发生Abnormal armature position具体为：Performance loss、Function failure
+问：扬州鼎合GeelyMR6453D41型汽车,车架号L6T7742Z0KU086727,在公里数2283时，故障现象:客户反映车辆正常进行时发动机故障灯亮,经维修技师电脑检测发现碳罐控制阀内部故障导致此现象,故障代码为P049700,无法消除此故障代码
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：福清宏业GeelyMR6453D41型汽车,车架号L6T7742Z0KU086341,在公里数1216时，故障现象:发动机故障灯间接亮,技师检查车辆接入诊断仪,P04F000,P049700,高负荷脱附管路,碳罐电磁阀故障,碳罐电磁阀卡滞,故确定碳罐控制阀进气管故障,
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：苏州汽工贸GeelyMR6453D41型汽车,车架号L6T7742Z1KU085327,在公里数606时，故障现象:客户反映仪表上发动机故障灯有时亮有时不亮,技师检查无人为损坏痕迹,机油无缺少,线束插头无松动线路电压正常,使用诊断仪检测报故障:P049700,
+答：CANISTER PURGE VALVE ASSEMBLY发生Abnormal armature position具体为：Performance loss、Function failure
+问：江西和众GeelyMR6453C04型汽车,车架号L6T7742Z6HN422240,在公里数24091时，故障现象:客户进站反映加满油后,提速车子无力,经维修技师检查发现是碳罐控制阀截止不了导通,引起油箱里的油气进入到气管里,师傅判断是碳罐控制阀内部故障导致
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：莆田志强GeelyMR6453C04型汽车,车架号L6T7742Z5HN422049,在公里数56307时，故障现象:加速没力,发动机故障灯亮,经检查为碳罐控制阀内部电气故障导致,需要更换碳罐控制阀总成
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：阜阳润龙GeelyHQ6453C03型汽车,车架号LB37742Z7JB020013,在公里数13231时，故障现象:该车客户反映怠速时碳罐控制阀有哒哒的异响声,经维修技师检查属碳罐控制阀总成内部故障导致,更换后故障排出
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：义乌康大GeelyMR6453L01型汽车,车架号L6T7742S7JN428346,在公里数27719时，故障现象:客户反馈加完油,车子启动困难,技师检测发现碳罐控制阀总成故障,判定为碳罐控制阀总成密封不良常开导致,需要更换碳罐控制阀总成排除故障
+答：CANISTER PURGE VALVE ASSEMBLY发生Spring deformation具体为：mechanical damage
+问：义乌康大GeelyMR6453C04型汽车,车架号L6T7742ZXHN453782,在公里数44218时，故障现象:客户反馈车子启动困难, 技师检测发现碳罐控制阀总成故障,判定为碳罐控制阀总成内部常通无法闭合导致,需更换碳罐控制阀总成排除故障.
+答：CANISTER PURGE VALVE ASSEMBLY发生Foreign substance between the armature a具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：岳阳兴燕GeelyHQ6453C03型汽车,车架号LB37742Z2HB035772,在公里数38156时，故障现象:用户反映车辆发动机故障灯亮,经师傅用电脑检测仪检测,诊断仪显示P044413故障,师傅检查碳罐控制阀插头等,无异常,判断是控制阀内部问题,更换配件
+答：CANISTER PURGE VALVE ASSEMBLY发生Foreign substance between the armature a具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：江西和众GeelyMR6453C04型汽车,车架号L6T7742Z0HN429104,在公里数46955时，故障现象:用户进站反映每次油箱加满油后车辆很难发动,经维修技师检查发现是碳罐控制阀截止不了导通,引起油箱里的油气进入到歧管里;师傅判断是碳罐控制阀内部
+答：CANISTER PURGE VALVE ASSEMBLY发生Abnormal armature position具体为：Performance loss、Function failure
+问：421303随州骏马GreatwallCC1032PA42型汽车,车架号LGWCBE193JB018331,在公里数15573时，故障现象:车门锁不住
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：520306遵义龙伟GreatwallCC1031PA6T型汽车,车架号LGWDBE198HB003158,在公里数49264时，故障现象:用中控四车门锁不上
+答：BODY CONTROL MODULE发生Mechnical damage具体为：Performance loss、Function failure
+问：610602延安基隆GreatwallCC6472RM0Z型汽车,车架号LGWEF4A57JF382572,在公里数32194时，故障现象:车辆停放一段时间后无法启动
+答：BODY CONTROL MODULE发生EOS具体为：Performance loss、Function failure
+问：330406嘉兴锦云GreatwallCC6472RM0Z型汽车,车架号LGWEF4A54JF489451,在公里数10539时，故障现象:启动后仪表显示后雾灯亮
+答：BODY CONTROL MODULE发生Corrupt by water具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：黄冈源华兴瑞Greatwall型汽车,车架号1833070944,在公里数6060时，故障现象:车辆上坡无力，发动机闪烁
+答：MOTOR CONTROL UNIT发生Mechnical damage具体为：Performance loss、Function failure
+问：广州为众Greatwall型汽车,车架号1823042747,在公里数5074时，故障现象:该车发动机故障灯亮，扳手灯故障灯亮
+答：MOTOR CONTROL UNIT发生Corrupt by water具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：滨州顺骋Greatwall型汽车,车架号1833066224,在公里数13401时，故障现象:发动机故障灯亮，加速无力熄火后重新着车故障灯消失
+答：MOTOR CONTROL UNIT发生EOS具体为：Performance loss、Function failure
+问：杭州国城Greatwall型汽车,车架号1723003152,在公里数25000时，故障现象:该车发动机故障灯亮
+答：MOTOR CONTROL UNIT发生Corrupt by water具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：甘肃仕通Greatwall型汽车,车架号1823077073,在公里数4253时，故障现象:发动机故障灯亮
+答：MOTOR CONTROL UNIT发生EOS具体为：Performance loss、Function failure
+问：日照凌硕Greatwall型汽车,车架号1823120988,在公里数3200时，故障现象:该车发动机抖动加速无力
+答：MOTOR CONTROL UNIT发生EOS具体为：Performance loss、Function failure
+问：酒泉仕通Greatwall型汽车,车架号1723001456,在公里数26815时，故障现象:发动机故障灯亮，小扳手灯也亮
+答：MOTOR CONTROL UNIT发生Mechnical damage具体为：Performance loss、Function failure
+问：沧州佳鑫Nissan China型汽车,车架号LGBT22E29KY052382,在公里数5125时，故障现象:故障灯点亮C3检测故障代码P0606，升级新版本，数据监控燃油喷射脉宽较低，对比正常车辆无此现象，根据维修手册确认ECM内部故障。
+答：Electronic Control Unit发生Mechnical damage具体为：Performance loss、Function failure
+问：17275CherySQR7150MD1型汽车,车架号LVVDC21B5KD177536,在公里数25时，故障现象:该车怠速时发动机抖动
+答：Fuel rail assembly发生INTERNL EYEWINKER LEAD TO FAILURE具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：江苏大昌Saic MotorRX5 C 2.0T型汽车,车架号LSJA24W64GS123170,在公里数78698时，故障现象:故障码:P1599,P2101,节气门清洗后自学习无效,线路及插件完好,节气门内部电机卡滞导致发动机故障灯亮,需要更换电子节气门
+答：ELECTRIC THROTTLE BODY发生Needle bearing and shaft block具体为：Performance loss、Function failure
+问：玉溪启徳Saic MotorX8 C 2.0T型汽车,车架号LSJW84W97KG039631,在公里数30830时，故障现象:电子节气门损坏,不维持调整,更换后故障消失.
+答：ELECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：蚌埠至诚Saic MotorMGZS C 1.5型汽车,车架号LSJW74U65HG192285,在公里数30000时，故障现象:经VDS检查为节气门位置低于极限值,检查确认为节气门故障更换后故障排除.
+答：ELECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：海南合众GeelyHQ7182L05型汽车,车架号LB37844S4GH073156,在公里数38532时，故障现象:发动机启动困难
+答：FUEL PUMP MODULE发生Float arm missing具体为：mechanical damage
+问：滨州溱蒄GeelyHQ7182L05型汽车,车架号LB37844S8GH124612,在公里数43069时，故障现象:油表指示不准
+答：FUEL PUMP MODULE发生Float arm missing具体为：Critical defect
+问：青岛利驰GeelyHQ7132C04型汽车,车架号LB37814Z5GH129861,在公里数58833时，故障现象:油表指示不准
+答：FUEL PUMP MODULE发生Float arm missing具体为：Critical defect
+问：江门辉胜达GeelyHQ7182L04型汽车,车架号LB37742S0HH021157,在公里数29362时，故障现象:油表显示不准
+答：FUEL PUMP MODULE发生Flange broken具体为：mechanical damage
+问：河南博润GeelyHQ7182C04型汽车,车架号LB37844Z4GH124491,在公里数31831时，故障现象:油表指示不准
+答：FUEL PUMP MODULE发生Float arm missing具体为：mechanical damage
+问：台州吉智GeelyHQ7182L05型汽车,车架号LB37844S5HH024050,在公里数55958时，故障现象:油表不准
+答：FUEL PUMP MODULE发生Float arm missing具体为：Critical defect
+问：咸阳德丰GeelyHQ7182L05型汽车,车架号LB37344S6GH131137,在公里数58389时，故障现象:油表显示不准
+答：FUEL PUMP MODULE发生Float arm missing具体为：Critical defect
+问：恩施加宝GeelyHQ7132C04型汽车,车架号LB37814ZXGH126146,在公里数21310时，故障现象:车辆无法启动
+答：FUEL PUMP MODULE发生TSG ceramic plate broken具体为：mechanical damage
+问：山西香山CherySQR7150J60型汽车,车架号LVVDC11B3KD089093,在公里数3694时，故障现象:发动机故障灯亮
+答：ELECTRIC THROTTLE BODY发生Main bore  dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：喀什通工GeelyHQ6453C03型汽车,车架号LB37742ZXGB015235,在公里数33314时，故障现象:自动熄火无法启动
+答：FUEL PUMP MODULE发生Flange broken具体为：mechanical damage
+问：大同瑞力骋GeelyHQ6453C04型汽车,车架号LB37742D1GB026838,在公里数50647时，故障现象:油表不准
+答：FUEL PUMP MODULE发生TSG wire harness missing具体为：mechanical damage
+问：大庆同方GeelyHQ6453C03型汽车,车架号LB37742Z6HB028002,在公里数47090时，故障现象:燃油泵异响
+答：FUEL PUMP MODULE发生Pre-filter dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：大同瑞力骋GeelyHQ6453C03型汽车,车架号LB37742Z9HB085312,在公里数37909时，故障现象:油表不准
+答：FUEL PUMP MODULE发生TSG wire harness missing具体为：mechanical damage
+问：雅安吉瑞品信GeelyHQ6453C04型汽车,车架号LB37742D6HB012709,在公里数54872时，故障现象:车辆加速无力
+答：FUEL PUMP MODULE发生Pre-filter dirty具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：保定祥邦GeelyHQ6453C03型汽车,车架号LB37742Z2HB007499,在公里数35041时，故障现象:燃油泵异响
+答：FUEL PUMP MODULE发生Flange broken具体为：mechanical damage
+问：重庆富扬GeelyHQ6453C03型汽车,车架号LB37742Z7HB108862,在公里数35309时，故障现象:车辆行驶中熄火
+答：FUEL PUMP MODULE发生Failure was confirmed only具体为：Performance loss、Function failure
+问：大同瑞力骋GeelyHQ6453C04型汽车,车架号LB37742D1GB038679,在公里数23262时，故障现象:油表显示不准
+答：FUEL PUMP MODULE发生TSG wire harness missing具体为：mechanical damage
+问：廊坊瑞吉GeelyHQ6453L01型汽车,车架号LB37752S2GB032121,在公里数30042时，故障现象:车辆后部嗡嗡异响
+答：FUEL PUMP MODULE发生Carbon brush and commulator wear具体为：Performance loss、Function failure
+问：大同瑞力骋GeelyHQ6453L01型汽车,车架号LB37752S6GB020067,在公里数19934时，故障现象:油表不准
+答：FUEL PUMP MODULE发生TSG wire harness missing具体为：mechanical damage
+问：沈阳业乔瑞星84040Daimler China.C260L型汽车,车架号LE42051771L501959,在公里数28410时，故障现象:发动机故障灯亮打火费劲
+答：HIGH PRESSURE PUMP发生DIRT ENTERED LEAD TO FAILURE具体为：WaterInlet,Pollution,Corrosion,Entryfrgn
+问：郑州鹏龙万通84080Daimler China.C260L型汽车,车架号LE42051771L505267,在公里数8939时，故障现象:燃油系统高压泵效果功率不足
+答：HIGH PRESSURE PUMP发生CHIP INSIDE LEAD TO EKP FAILURE具体为：WaterInlet,Pollution,Corrosion,Entryfrgn

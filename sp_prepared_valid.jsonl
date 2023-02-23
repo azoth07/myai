@@ -1,0 +1,122 @@
+{"prompt":"宜城新世纪geelymr6453d41型汽车,车架号l6t7742z3ku087595,在公里数2286时，故障现象:该车发动机故障灯亮,进店用pc机检查发现故障代码为p044400,蒸发系统碳罐控制阀控制电路开路, 确定为碳罐电磁阀内部故障导致,需更换 ->","completion":" canister purge valve assembly发生abnormal armature position具体为：performance loss、function failure"}
+{"prompt":"景德镇隆鑫geelyhq7152d02型汽车,车架号lb37722z3kh110925,在公里数930时，故障现象:发动机故障灯亮 ->","completion":" canister purge valve assembly发生spring deformation具体为：mechanical damage"}
+{"prompt":"510112都江堰建国greatwallcc6462rm06型汽车,车架号lgwef6a55hh574597,在公里数19526时，故障现象:天窗无法正常使用，大灯有时无法开启（j4pin针腐蚀） ->","completion":" body control module发生corrupt by water具体为：waterinlet,pollution,corrosion,entryfrgn"}
+{"prompt":"421203咸宁源华greatwallcc6463rm06型汽车,车架号lgwef6a52hf042056,在公里数37959时，故障现象:灯光不亮（j4pin针腐蚀） ->","completion":" body control module发生corrupt by water具体为：waterinlet,pollution,corrosion,entryfrgn"}
+{"prompt":"220160吉林帅通greatwallcc6483ad00型汽车,车架号lgwef7a71jh275721,在公里数14000时，故障现象:喇叭长鸣(u37芯片eos) ->","completion":" body control module发生eos具体为：performance loss、function failure"}
+{"prompt":"210161辽宁兴凯来greatwallcc6483ad00型汽车,车架号lgwef7a79hh300553,在公里数25932时，故障现象:喇叭长鸣,长鸣后喇叭不响(u37芯片eos) ->","completion":" body control module发生eos具体为：performance loss、function failure"}
+{"prompt":"510950遂宁瑞孚greatwallcc7203um02型汽车,车架号lgwee6a56hh529607,在公里数19278时，故障现象:喇叭长鸣(u37芯片eos) ->","completion":" body control module发生eos具体为：performance loss、function failure"}
+{"prompt":"乌鲁木齐鑫华创geelyhq7132l06型汽车,车架号lb37814s7gh062702,在公里数34514时，故障现象:用户反映车辆无法启动 ->","completion":" fuel pump module发生float arm missing具体为：mechanical damage"}
+{"prompt":"乌鲁木齐鑫华创geelyhq7182l05型汽车,车架号lb37844s9gh062167,在公里数57894时，故障现象:用户反映车辆行驶中油位显示会增加1-2格,维修技师检查发现行驶中油位显示会增加1-2格确实存在,检查供电正常,未见插件松动,油量传感器未变形 ->","completion":" fuel pump module发生float arm missing具体为：critical defect"}
+{"prompt":"江西鸿浩changan ford型汽车,车架号lvshffal0kf786088,在公里数745时，故障现象:p2096 ->","completion":" oxygen sensor发生sensor element  crocodile crack in exhau具体为：performance loss、function failure"}
+{"prompt":"兴义建国greatwall型汽车,车架号1725153885,在公里数53210时，故障现象:启动困难，发动机抖动大 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"云南诚旺greatwall型汽车,车架号1725013518,在公里数51812时，故障现象:发动机抖动大，加油无力 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"延边博瑞greatwall型汽车,车架号1725041240,在公里数46564时，故障现象:行驶顿挫 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"濮阳通达greatwall型汽车,车架号1725045915,在公里数78805时，故障现象:发动机故障灯亮 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"潍坊新东联greatwall型汽车,车架号1725015860,在公里数46588时，故障现象:故障灯亮 p035313 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"通辽昱达吉greatwall型汽车,车架号1625345500,在公里数46208时，故障现象:发动机抖动 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"鄂尔多斯和兴greatwall型汽车,车架号1725025485,在公里数22014时，故障现象:发动机抖动 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"诸暨元胜greatwall型汽车,车架号1601069206,在公里数15916时，故障现象:车子没有定速巡航 ->","completion":" electronic control unit发生mechnical damage具体为：performance loss、function failure"}
+{"prompt":"安徽新动力greatwall型汽车,车架号1625348060,在公里数43079时，故障现象:发动机故障灯亮，车辆抖动 p035413 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"鄂尔多斯和兴greatwall型汽车,车架号1605281856,在公里数45223时，故障现象:发动机抖动 p035313 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"宜昌华坤greatwall型汽车,车架号1625037912,在公里数29201时，故障现象:车辆偶尔打不着车 ->","completion":" electronic control unit发生mechnical damage具体为：performance loss、function failure"}
+{"prompt":"娄底永华greatwall型汽车,车架号1705001426,在公里数58123时，故障现象:车辆加速无力，发动机故障灯亮 p035313 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"张家口鑫嘉荣greatwall型汽车,车架号1605001377,在公里数41122时，故障现象:故障灯亮，发动机抖，车辆无法行驶 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"大理超达greatwall型汽车,车架号1625208759,在公里数22200时，故障现象:发动机故障灯亮，熄火后无法启动 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"河南恒联greatwall型汽车,车架号1625303810,在公里数46053时，故障现象:发动机故障灯亮，怠速抖动 p035413 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"福州万润泰greatwall型汽车,车架号1625317517,在公里数73000时，故障现象:车辆行驶会窜 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"广西广昇greatwall型汽车,车架号1705102936,在公里数29498时，故障现象:行驶中自动熄火，无法启动 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"朔州振华greatwall型汽车,车架号1625130219,在公里数40250时，故障现象:车抖 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"聊城奥宝源greatwall型汽车,车架号1625324148,在公里数70247时，故障现象:车辆行驶中突然抖动，加速无力 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"大同大信greatwall型汽车,车架号1625349047,在公里数65255时，故障现象:发动机抖动，故障灯亮 p035313 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"宜昌华坤greatwall型汽车,车架号1605202281,在公里数66401时，故障现象:车辆无法启动 ->","completion":" electronic control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"温州煊geelymr7183c05型汽车,车架号l6t7944z1hn493904,在公里数18821时，故障现象:油表指示针不动 ->","completion":" fuel pump module发生tsg connector deformation具体为：mechanical damage"}
+{"prompt":"赣州凯迪first auto worksca7185型汽车,车架号lfph4bcp7k2l02971,在公里数7715时，故障现象:燃油泄露检测模块 ->","completion":" diagnosis module tank leakage发生mechanical damage具体为：mechanical damage"}
+{"prompt":"北京龙泽first auto worksca7188ate6型汽车,车架号lfph4ace5k1a43947,在公里数10211时，故障现象:燃油泄露检测模块 ->","completion":" diagnosis module tank leakage发生mechanical damage具体为：mechanical damage"}
+{"prompt":"东莞鸿粤益嘉first auto worksca7188ate5型汽车,车架号lfph4acp7j1e04191,在公里数34931时，故障现象:有故障 ->","completion":" fuel pump module发生three direct links\/ekp seal ring missing具体为：mechanical damage"}
+{"prompt":"合肥大步牛星first auto worksca7188ate5型汽车,车架号lfph4acp4j1e08845,在公里数15787时，故障现象:异响 ->","completion":" fuel pump module发生three direct links\/ekp seal ring broken（具体为：mechanical damage"}
+{"prompt":"桐庐车业geelyhq7152d02型汽车,车架号lb37722z9kh078773,在公里数2100时，故障现象:发动机故障灯亮p049700 ->","completion":" canister purge valve assembly发生spring deformation具体为：mechanical damage"}
+{"prompt":"安徽吉兴达geelyhq7152d02型汽车,车架号lb37722z4kh065607,在公里数12295时，故障现象:发动机故障灯亮p049700 ->","completion":" canister purge valve assembly发生abnormal armature position具体为：performance loss、function failure"}
+{"prompt":"哈尔滨晨宇greatwall型汽车,车架号1743083946,在公里数96532时，故障现象:车辆跑高速时，同一速度长时间行驶怂车 ->","completion":" electronic control unit发生mechnical damage具体为：performance loss、function failure"}
+{"prompt":"6321135sgm wulingcn115型汽车,车架号lzwadaga3kc661789,在公里数2000时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6131161sgm wulingcn115型汽车,车架号lzwadaga1kc703439,在公里数631时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j370003sgm wulingcn201型汽车,车架号lzwadaga0kb007774,在公里数11325时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6121110sgm wulingcn100v型汽车,车架号lzwcdaga2ke056319,在公里数2766时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6131161sgm wulingcn180w型汽车,车架号lzwadaga8kg217090,在公里数1130时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6121110sgm wulingcn100v型汽车,车架号lzwcdaga9ke061338,在公里数4747时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6121110sgm wulingcn115型汽车,车架号lzwadagaxkc656850,在公里数2433时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6131161sgm wulingcn115型汽车,车架号lzwadaga6kc648597,在公里数3606时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6121110sgm wulingcn100v型汽车,车架号lzwadaga7ke392393,在公里数4941时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6131161sgm wulingcn210m型汽车,车架号lzwadaga2kb077342,在公里数1440时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j130018sgm wulingcn115型汽车,车架号lzwadaga8kc653512,在公里数5300时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6411132sgm wulingcn115型汽车,车架号lzwadaga5kc683941,在公里数997时，故障现象:堵塞 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j130018sgm wulingcn185m型汽车,车架号lzwadaga0kf589447,在公里数2900时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6311103sgm wulingcn180w型汽车,车架号lzwadaga1kg210966,在公里数4002时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j130018sgm wulingcn185m型汽车,车架号lzwadaga6kf589498,在公里数3300时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j140015sgm wulingcn180s型汽车,车架号lzwadaga0kg032161,在公里数900时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生spring deformation具体为：performance loss、function failure"}
+{"prompt":"6371173sgm wulingcn210m型汽车,车架号lzwadaga9kb085437,在公里数6023时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6371173sgm wulingcn100v型汽车,车架号lzwcdaga5ke054340,在公里数4586时，故障现象:故障灯亮p049700 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j140015sgm wulingcn115型汽车,车架号lzwadaga5kc662663,在公里数4296时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6131161sgm wulingn300型汽车,车架号lzwdaaga1ke396428,在公里数10381时，故障现象:发动机故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6441137sgm wulingcn110v型汽车,车架号lzwcdaga4kc824720,在公里数4980时，故障现象:故障灯亮p049700 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j370014sgm wulingcn185m型汽车,车架号lzwadaga2kf579857,在公里数3235时，故障现象:发动机故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6121110sgm wulingcn100v型汽车,车架号lzwcdaga6ke060003,在公里数4117时，故障现象:客户反映故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6131161sgm wulingcn110v型汽车,车架号lzwcdaga2kc824537,在公里数1429时，故障现象:故障灯亮p049700 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j370009sgm wulingcn180s型汽车,车架号lzwadaga9kf126251,在公里数2863时，故障现象:厂家活动 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j130019sgm wulingcn115型汽车,车架号lzwadaga0kc659756,在公里数7976时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j130019sgm wulingcn115型汽车,车架号lzwadaga8kc657236,在公里数1012时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6131161sgm wulingcn100v型汽车,车架号lzwcdaga7ke057806,在公里数702时，故障现象:发动机故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6321168sgm wulingcn115型汽车,车架号lzwadaga8kc660654,在公里数4000时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j410027sgm wulingcn185m型汽车,车架号lzwadagaxkf597684,在公里数650时，故障现象:碳罐电磁阀 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6311110sgm wulingcn115型汽车,车架号lzwadaga0kc660681,在公里数4054时，故障现象:p045700燃油蒸发系统泄漏 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j370011sgm wulingcn210s型汽车,车架号lzwadaga9kb364628,在公里数1732时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6121110sgm wulingcn115型汽车,车架号lzwadaga8kc660573,在公里数2876时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j130019sgm wulingcn115型汽车,车架号lzwadaga9kc634631,在公里数2340时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j130019sgm wulingcn115型汽车,车架号lzwadaga9kc657231,在公里数2589时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6371178sgm wulingcn185m型汽车,车架号lzwadaga3kf582119,在公里数10720时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j130021sgm wulingcn115型汽车,车架号lzwadaga3kc659783,在公里数11021时，故障现象:更换碳罐电磁阀 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6131116sgm wulingcn210m型汽车,车架号lzwadaga2kb075588,在公里数2262时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6121110sgm wulingcn100v型汽车,车架号lzwadaga6ke434830,在公里数3513时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6371181sgm wulingcn100v型汽车,车架号lzwcdaga7ke057028,在公里数3897时，故障现象:燃油泄漏 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j130018sgm wulingcn185m型汽车,车架号lzwadaga7kf588862,在公里数1600时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j130019sgm wulingcn180w型汽车,车架号lzwadaga7kg216724,在公里数2669时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6121110sgm wulingcn100v型汽车,车架号lzwadaga6ke402783,在公里数3802时，故障现象:客户反映发动机故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6321128sgm wulingcn100v型汽车,车架号lzwadaga9ke055790,在公里数7230时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j130023sgm wulingcn100v型汽车,车架号lzwadaga9ke405547,在公里数6082时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6121110sgm wulingcn185m型汽车,车架号lzwadaga8kf565607,在公里数4456时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6321128sgm wulingcn115型汽车,车架号lzwadaga1kc651732,在公里数4325时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j130018sgm wulingcn180s型汽车,车架号lzwadaga8kg035423,在公里数1501时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6131116sgm wulingcn210m型汽车,车架号lzwadaga3kb075616,在公里数8229时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j130027sgm wulingcn115型汽车,车架号lzwadaga5kc645626,在公里数2723时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6371178sgm wulingcn100v型汽车,车架号lzwadaga4ke425348,在公里数6300时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j440025sgm wulingcn185m型汽车,车架号lzwadaga6kf584219,在公里数4830时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6371139sgm wulingcn100v型汽车,车架号lzwadagaxke424947,在公里数3312时，故障现象:检查故障灯亮,故障码p049700 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6311103sgm wulingcn100v型汽车,车架号lzwadaga5ke044639,在公里数7066时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6121110sgm wulingcn210m型汽车,车架号lzwadaga8kb074929,在公里数14857时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生spring deformation具体为：mechanical damage"}
+{"prompt":"6411156sgm wulingcn110v型汽车,车架号lzwcdaga8kc824932,在公里数3201时，故障现象:车辆报码,油箱盖缺失 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"6371146sgm wulingcn180s型汽车,车架号lzwadaga5kf127112,在公里数4时，故障现象:更换碳罐电磁阀活动 ->","completion":" canister purge valve assembly发生spring deformation具体为：performance loss、function failure"}
+{"prompt":"j130019sgm wulingcm115型汽车,车架号lzwadagaxkc657268,在公里数2012时，故障现象:故障灯常亮 ->","completion":" canister purge valve assembly发生valve can't open at small duty cycle具体为：critical defect"}
+{"prompt":"j340001sgm wulingcn185m型汽车,车架号lzwadaga1kf587612,在公里数6531时，故障现象:发动机故障灯亮 ->","completion":" canister purge valve assembly发生spring deformation具体为：performance loss、function failure"}
+{"prompt":"6321159sgm wulingcn180w型汽车,车架号lzwadaga7kg212141,在公里数11917时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生spring deformation具体为：performance loss、function failure"}
+{"prompt":"6411118sgm wulingcn115型汽车,车架号lzwadaga8kg361044,在公里数2012时，故障现象:故障灯亮 ->","completion":" canister purge valve assembly发生spring deformation具体为：performance loss、function failure"}
+{"prompt":"7582215faw-volkswagen型汽车,车架号lfv2b25g5g5100444,在公里数42978时，故障现象:高压油泵异响,高压油泵故障，更换高压油泵。 ->","completion":" high pressure pump发生connector mechanical damage具体为：mechanical damage"}
+{"prompt":"7582122faw-volkswagen型汽车,车架号lfv2b25g8g5096681,在公里数52348时，故障现象:发动机处异响查为高压泵问题更换高压泵 ->","completion":" high pressure pump发生connector mechanical damage具体为：mechanical damage"}
+{"prompt":"7582196faw-volkswagen型汽车,车架号lfv2a21k0h4271025,在公里数56806时，故障现象:高压泵工作时哒哒异响，高压泵故障，更换 ->","completion":" high pressure pump发生connector mechanical damage具体为：mechanical damage"}
+{"prompt":"7582122faw-volkswagen型汽车,车架号lfv2a21k3h4214172,在公里数27014时，故障现象:高压泵异响查为高压泵问题更换高压泵 ->","completion":" high pressure pump发生connector mechanical damage具体为：mechanical damage"}
+{"prompt":"江门粤怡greatwall型汽车,车架号lgwef4a58kf271952,在公里数10时，故障现象:车辆启动困难 ->","completion":" rot.-speed sensor发生wire broken at inlet conductive sheet具体为：performance loss、function failure"}
+{"prompt":"天津中远geelyjl7182l04n型汽车,车架号lb377k4s6jx164160,在公里数37245时，故障现象:车辆故障灯亮,有时不好着车,经检查电子节气门体内部故障,控制不良导致 ->","completion":" 1lectric throttle body发生main bore  dirty具体为：waterinlet,pollution,corrosion,entryfrgn"}
+{"prompt":"甘肃驰辰geelyjl7182l04n型汽车,车架号lb377k4s4jx153514,在公里数36358时，故障现象:用户反映车辆偶发性加油不走现象, 进站维修时技师检测是电子节气门内部传感器件故障导致, 更换后故障排除. ->","completion":" 1lectric throttle body发生main bore  dirty具体为：waterinlet,pollution,corrosion,entryfrgn"}
+{"prompt":"湖南涨亿geelyjl6453l09型汽车,车架号lb37742s8jc096949,在公里数9992时，故障现象:该车偶发性行驶时加油无力并伴有顿挫感,维修技师试车点火挂一档将有门踩到底仍然加速不起, 手动熄火再次点火后又能恢复正常行驶 ->","completion":" 1lectric throttle body发生main bore  dirty具体为：waterinlet,pollution,corrosion,entryfrgn"}
+{"prompt":"天津天汇永达汽车changan fordcam7150a57型汽车,车架号lvrhdfal6hn031128,在公里数42649时，故障现象:车辆无法启动 ->","completion":" fuel pump module发生three direct links\/ekp seal ring deforma具体为：mechanical damage"}
+{"prompt":"j001first auto works国产atenza型汽车,车架号lfpm5acp0j1a11208,在公里数25718时，故障现象:客户到店反映,车辆出现发动机故障灯亮 ->","completion":" fuel pump module发生tsg ceramic plate broken具体为：mechanical damage"}
+{"prompt":"4103023昆山联合永通saic motorev80型汽车,车架号lsh14j4c1ha080286,在公里数32805时，故障现象:电子手刹松不掉 ->","completion":" body control module发生eos具体为：performance loss、function failure"}
+{"prompt":"青岛利驰geelymr7152c09型汽车,车架号l6t7824z3jn156549,在公里数23794时，故障现象:客户反应车辆间隙性发动机故障灯亮 ->","completion":" 1lectric throttle body发生main bore  dirty具体为：waterinlet,pollution,corrosion,entryfrgn"}
+{"prompt":"扬州鼎合geelymr6453d41型汽车,车架号l6t7742z0ku086727,在公里数2283时，故障现象:客户反映车辆正常进行时发动机故障灯亮,经维修技师电脑检测发现碳罐控制阀内部故障导致此现象,故障代码为p049700,无法消除此故障代码 ->","completion":" canister purge valve assembly发生spring deformation具体为：mechanical damage"}
+{"prompt":"苏州汽工贸geelymr6453d41型汽车,车架号l6t7742z1ku085327,在公里数606时，故障现象:客户反映仪表上发动机故障灯有时亮有时不亮,技师检查无人为损坏痕迹,机油无缺少,线束插头无松动线路电压正常,使用诊断仪检测报故障:p049700, ->","completion":" canister purge valve assembly发生abnormal armature position具体为：performance loss、function failure"}
+{"prompt":"莆田志强geelymr6453c04型汽车,车架号l6t7742z5hn422049,在公里数56307时，故障现象:加速没力,发动机故障灯亮,经检查为碳罐控制阀内部电气故障导致,需要更换碳罐控制阀总成 ->","completion":" canister purge valve assembly发生spring deformation具体为：mechanical damage"}
+{"prompt":"义乌康大geelymr6453l01型汽车,车架号l6t7742s7jn428346,在公里数27719时，故障现象:客户反馈加完油,车子启动困难,技师检测发现碳罐控制阀总成故障,判定为碳罐控制阀总成密封不良常开导致,需要更换碳罐控制阀总成排除故障 ->","completion":" canister purge valve assembly发生spring deformation具体为：mechanical damage"}
+{"prompt":"江西和众geelymr6453c04型汽车,车架号l6t7742z0hn429104,在公里数46955时，故障现象:用户进站反映每次油箱加满油后车辆很难发动,经维修技师检查发现是碳罐控制阀截止不了导通,引起油箱里的油气进入到歧管里;师傅判断是碳罐控制阀内部 ->","completion":" canister purge valve assembly发生abnormal armature position具体为：performance loss、function failure"}
+{"prompt":"甘肃仕通greatwall型汽车,车架号1823077073,在公里数4253时，故障现象:发动机故障灯亮 ->","completion":" motor control unit发生eos具体为：performance loss、function failure"}
+{"prompt":"河南博润geelyhq7182c04型汽车,车架号lb37844z4gh124491,在公里数31831时，故障现象:油表指示不准 ->","completion":" fuel pump module发生float arm missing具体为：mechanical damage"}
+{"prompt":"咸阳德丰geelyhq7182l05型汽车,车架号lb37344s6gh131137,在公里数58389时，故障现象:油表显示不准 ->","completion":" fuel pump module发生float arm missing具体为：critical defect"}
+{"prompt":"重庆富扬geelyhq6453c03型汽车,车架号lb37742z7hb108862,在公里数35309时，故障现象:车辆行驶中熄火 ->","completion":" fuel pump module发生failure was confirmed only具体为：performance loss、function failure"}
+{"prompt":"大同瑞力骋geelyhq6453l01型汽车,车架号lb37752s6gb020067,在公里数19934时，故障现象:油表不准 ->","completion":" fuel pump module发生tsg wire harness missing具体为：mechanical damage"}
